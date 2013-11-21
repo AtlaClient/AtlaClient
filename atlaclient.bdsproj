@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">CPlusPlusBuilder.Personality</Option>
+			<Option Name="ProjectType">CppVCLApplication</Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{E2BDFB52-06C7-4AAA-817A-92F7761F36A9}</Option>
+		</Option>
+	</PersonalityInfo>
+	<CPlusPlusBuilder.Personality>
+		<BCBPROJECT>
+      <project version="10.0">
+        <property category="build.config" name="active" value="0"/>
+        <property category="build.config" name="count" value="1"/>
+        <property category="build.config" name="excludedefaultforzero" value="0"/>
+        <property category="build.config.0" name="builddir" value="Debug"/>
+        <property category="build.config.0" name="key" value="Debug_Build"/>
+        <property category="build.config.0" name="name" value="Debug Build"/>
+        <property category="build.config.0" name="settings.win32b" value="default"/>
+        <property category="build.config.0" name="type" value="Toolset"/>
+        <property category="build.config.0" name="win32.win32b.builddir" value="Debug_Build"/>
+        <property category="build.config.1" name="key" value="Release_Build"/>
+        <property category="build.config.1" name="name" value="Release Build"/>
+        <property category="build.config.1" name="settings.win32b" value="default"/>
+        <property category="build.config.1" name="type" value="Toolset"/>
+        <property category="build.config.1" name="win32.win32b.builddir" value="release_build"/>
+        <property category="build.node" name="dontverifylibs" value="0"/>
+        <property category="build.node" name="lastconfig" value="Release_Build"/>
+        <property category="build.node" name="libraries" value="bcbsmp.lib vcldb.lib dbrtl.lib vclx.lib vcl.lib rtl.lib"/>
+        <property category="build.node" name="name" value="atlaclient.exe"/>
+        <property category="build.node" name="packages" value="rtl;vcl;vclx;vcljpg"/>
+        <property category="build.node" name="sparelibs" value="rtl.lib vcl.lib vclx.lib dbrtl.lib vcldb.lib bcbsmp.lib"/>
+        <property category="build.node" name="use_packages" value="0"/>
+        <property category="build.platform" name="active" value="win32"/>
+        <property category="build.platform" name="win32.Debug_Build.toolset" value="win32b"/>
+        <property category="build.platform" name="win32.Release_Build.toolset" value="win32b"/>
+        <property category="build.platform" name="win32.default" value="win32b"/>
+        <property category="build.platform" name="win32.enabled" value="1"/>
+        <property category="build.platform" name="win32.win32b.enabled" value="1"/>
+        <property category="win32.*.win32b.dcc32" name="param.filenames.merge" value="1"/>
+        <property category="win32.*.win32b.tasm32" name="param.listfile.merge" value="1"/>
+        <property category="win32.*.win32b.tasm32" name="param.objfile.merge" value="1"/>
+        <property category="win32.*.win32b.tasm32" name="param.xreffile.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="container.SelectedOptimizations.containerenabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="container.SelectedWarnings.containerenabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.4.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.5.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.6.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.D.arg.1" value="_DEBUG"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.D.arg.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.D.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.align-1.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.align-2.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.align-4.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.align-5.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.p.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.pm.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.pr.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.ps.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.bcc32" name="option.r.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.$D.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.$O.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.D.arg.1" value="DEBUG"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.D.arg.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.D.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.dcc32" name="option.V.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.D.arg.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.D.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.L.arg.1" value="$(BDS)\lib\debug"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.L.arg.merge" value="1"/>
+        <property category="win32.Debug_Build.win32b.ilink32" name="option.L.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.tasm32" name="option.z.enabled" value="1"/>
+        <property category="win32.Debug_Build.win32b.tasm32" name="option.zd.enabled" value="0"/>
+        <property category="win32.Debug_Build.win32b.tasm32" name="option.zi.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="container.SelectedOptimizations.containerenabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="container.SelectedWarnings.containerenabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.3.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.4.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.5.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.6.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.A.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.AK.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.AU.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.D.arg.1" value="NDEBUG"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.D.arg.merge" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.D.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.H.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.Jgi.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.Jgx.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.O1.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.O2.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.V0.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.V1.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.Vmd.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.Vmm.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.Vmv.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.align-1.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.align-2.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.align-4.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.align-5.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.k.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.noregistervars.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.p.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.pm.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.pr.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.ps.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.r.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.rd.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.v.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.vi.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.bcc32" name="option.y.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.dcc32" name="option.$D.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.dcc32" name="option.$O.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.dcc32" name="option.V.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="container.SelectedWarnings.containerenabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.-w-.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.Gpd.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.Gpr.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.L.arg.1" value="$(BDS)\lib\release"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.L.arg.merge" value="1"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.L.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.m.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.map_segments.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.s.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.v.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.w.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.ilink32" name="option.wdpl.enabled" value="1"/>
+        <property category="win32.Release_Build.win32b.tasm32" name="option.z.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.tasm32" name="option.zd.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.tasm32" name="option.zi.enabled" value="0"/>
+        <property category="win32.Release_Build.win32b.tasm32" name="option.zn.enabled" value="1"/>
+        <optionset name="all_configurations">
+          <property category="node" name="displayname" value="All Configurations"/>
+          <property category="win32.*.win32b.bcc32" name="container.SelectedOptimizations.containerenabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="container.SelectedWarnings.containerenabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.1" value="ATLACLIENT"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.arg.merge" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.D.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.H=.arg.1" value="$(BDS)\lib\temp\vcl100.csm"/>
+          <property category="win32.*.win32b.bcc32" name="option.H=.arg.merge" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.H=.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.Hc.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.1" value="D:\Program Files\Borland\CBuilder5\Projects\"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.2" value="source"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.3" value="$(BDS)\projects\lib"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.4" value="$(BDS)\include"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.5" value="$(BDS)\include\vcl"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.6" value="$(BDS)\Lib\RX\units"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.7" value="$(BDS)\include\dinkumware"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.arg.merge" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.I.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.O1.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.O2.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.Od.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.Ve.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.Vms.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.Vx.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.X.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.align-3.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.b.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.disablewarns.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.k.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.noregistervars.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.sysdefines.arg.1" value="NO_STRICT"/>
+          <property category="win32.*.win32b.bcc32" name="option.sysdefines.arg.2" value="_VIS_NOLIB"/>
+          <property category="win32.*.win32b.bcc32" name="option.sysdefines.arg.merge" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.sysdefines.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.tW.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.tWM.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.v.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.vi.enabled" value="1"/>
+          <property category="win32.*.win32b.bcc32" name="option.w.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.winl.enabled" value="0"/>
+          <property category="win32.*.win32b.bcc32" name="option.y.enabled" value="1"/>
+          <property category="win32.*.win32b.brcc32" name="option.16.enabled" value="0"/>
+          <property category="win32.*.win32b.brcc32" name="option.31.enabled" value="0"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.1" value="_DEBUG"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.2" value="ATLACLIENT"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.arg.merge" value="1"/>
+          <property category="win32.*.win32b.brcc32" name="option.D.enabled" value="0"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.1" value="D:\Program Files\Borland\CBuilder5\Projects\"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.2" value="source"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.3" value="$(BDS)\projects\lib"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.4" value="$(BDS)\include"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.5" value="$(BDS)\include\vcl"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.6" value="$(BDS)\Lib\RX\units"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.7" value="$(BDS)\include\dinkumware"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.arg.merge" value="1"/>
+          <property category="win32.*.win32b.brcc32" name="option.INCLUDEPATH.enabled" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.$.arg.1" value="Y+"/>
+          <property category="win32.*.win32b.dcc32" name="option.$.arg.2" value="W"/>
+          <property category="win32.*.win32b.dcc32" name="option.$.arg.merge" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.$.enabled" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.$O.enabled" value="0"/>
+          <property category="win32.*.win32b.dcc32" name="option.I.arg.1" value="source"/>
+          <property category="win32.*.win32b.dcc32" name="option.I.arg.merge" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.I.enabled" value="0"/>
+          <property category="win32.*.win32b.dcc32" name="option.O.arg.1" value="source"/>
+          <property category="win32.*.win32b.dcc32" name="option.O.arg.merge" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.O.enabled" value="0"/>
+          <property category="win32.*.win32b.dcc32" name="option.R.arg.1" value="source"/>
+          <property category="win32.*.win32b.dcc32" name="option.R.arg.merge" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.R.enabled" value="0"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.arg.1" value="source"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.arg.2" value=".\"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.arg.3" value="$(BDS)\lib"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.arg.4" value="$(BDS)\lib\obj"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.arg.merge" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="option.U.enabled" value="1"/>
+          <property category="win32.*.win32b.dcc32" name="param.filenames.merge" value="1"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.D.arg.1" value="_DEBUG"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.D.arg.2" value="ATLACLIENT"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.D.arg.merge" value="1"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.D.enabled" value="1"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.I.arg.1" value="D:Program"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.I.arg.2" value="FilesBorlandCBuilder5Projects."/>
+          <property category="win32.*.win32b.idl2cpp" name="option.I.arg.3" value="source"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.I.arg.4" value="$(BDS)\projects\lib"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.I.arg.5" value="$(BDS)\include"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.I.arg.6" value="$(BDS)\include\vcl"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.I.arg.7" value="$(BDS)\Lib\RX\units"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.I.arg.merge" value="1"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.I.enabled" value="1"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.boa.enabled" value="1"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.srcsuffix.arg" value="cpp"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.srcsuffix.arg.merge" value="1"/>
+          <property category="win32.*.win32b.idl2cpp" name="option.srcsuffix.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.D.arg" value="&quot;&quot;"/>
+          <property category="win32.*.win32b.ilink32" name="option.D.arg.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.D.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.1" value="D:\Program Files\Borland\CBuilder5\Projects\"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.2" value="source"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.3" value="$(BDS)\projects\lib"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.4" value="$(BDS)\lib\obj"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.5" value="$(BDS)\lib"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.6" value="$(BDS)\Lib\RX\dcu\C5"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.7" value="$(BDS)\Lib\RX\units"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.arg.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.L.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.Tpe.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.aa.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.dynamicrtl.enabled" value="0"/>
+          <property category="win32.*.win32b.ilink32" name="option.j.arg.1" value="source"/>
+          <property category="win32.*.win32b.ilink32" name="option.j.arg.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.j.enabled" value="0"/>
+          <property category="win32.*.win32b.ilink32" name="option.outputdir.arg.1" value="."/>
+          <property category="win32.*.win32b.ilink32" name="option.outputdir.arg.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.outputdir.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="option.v.enabled" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="param.libfiles.1" value="$(LIBRARIES)"/>
+          <property category="win32.*.win32b.ilink32" name="param.libfiles.2" value="import32.lib"/>
+          <property category="win32.*.win32b.ilink32" name="param.libfiles.3" value="cp32mt.lib"/>
+          <property category="win32.*.win32b.ilink32" name="param.libfiles.merge" value="1"/>
+          <property category="win32.*.win32b.ilink32" name="param.objfiles.1" value="c0w32.obj"/>
+          <property category="win32.*.win32b.ilink32" name="param.objfiles.2" value="sysinit.obj"/>
+          <property category="win32.*.win32b.ilink32" name="param.objfiles.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.1" value="_DEBUG"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.2" value="ATLACLIENT"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.arg.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.d.enabled" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.1" value="D:\Program Files\Borland\CBuilder5\Projects\"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.2" value="source"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.3" value="$(BDS)\projects\lib"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.4" value="$(BDS)\include"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.5" value="$(BDS)\include\vcl"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.6" value="$(BDS)\Lib\RX\units"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.7" value="$(BDS)\include\dinkumware"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.arg.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.i.enabled" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.w2.enabled" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="option.zi.enabled" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="param.listfile.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="param.objfile.merge" value="1"/>
+          <property category="win32.*.win32b.tasm32" name="param.xreffile.merge" value="1"/>
+        </optionset>
+      </project>
+      <FILELIST>
+        <FILE FILENAME="atlaclient.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="atlaclient" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="AtlaClient.res" CONTAINERID="ResTool" LOCALCOMMAND="" UNITNAME="AtlaClient" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="source\WedgeModeSetupFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="WedgeModeSetupFrm" FORMNAME="WedgeModeSetupForm" DESIGNCLASS="" ADDITIONAL="source\WedgeModeSetupFrm.h"/>
+        <FILE FILENAME="source\AboutFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="AboutFrm" FORMNAME="AboutForm" DESIGNCLASS="" ADDITIONAL="source\AboutFrm.h"/>
+        <FILE FILENAME="source\acplugins.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="acplugins" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\acplugins.h"/>
+        <FILE FILENAME="source\AnalyzeCityRegion.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="AnalyzeCityRegion" FORMNAME="AnalyzeCityRegionFrm" DESIGNCLASS="" ADDITIONAL="source\AnalyzeCityRegion.h"/>
+        <FILE FILENAME="source\army.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="army" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\army.h"/>
+        <FILE FILENAME="source\BalanceFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="BalanceFrm" FORMNAME="BalanceForm" DESIGNCLASS="" ADDITIONAL="source\BalanceFrm.h"/>
+        <FILE FILENAME="source\battle.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="battle" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\battle.h"/>
+        <FILE FILENAME="source\battlerep.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="battlerep" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\battlerep.h"/>
+        <FILE FILENAME="source\BattleSimFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="BattleSimFrm" FORMNAME="BattleSimForm" DESIGNCLASS="" ADDITIONAL="source\BattleSimFrm.h"/>
+        <FILE FILENAME="source\ChangeAtt.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ChangeAtt" FORMNAME="fChAtt" DESIGNCLASS="" ADDITIONAL="source\ChangeAtt.h"/>
+        <FILE FILENAME="source\ChangeGameFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ChangeGameFrm" FORMNAME="ChangeGameForm" DESIGNCLASS="" ADDITIONAL="source\ChangeGameFrm.h"/>
+        <FILE FILENAME="source\changes.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="changes" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\changes.h"/>
+        <FILE FILENAME="source\EAPCustomMemo.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EAPCustomMemo" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\EAPCustomMemo.h"/>
+        <FILE FILENAME="source\eapfile.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="eapfile" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="source\EditArmor.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditArmor" FORMNAME="fEditArmor" DESIGNCLASS="" ADDITIONAL="source\EditArmor.h"/>
+        <FILE FILENAME="source\EditObjTypeFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditObjTypeFrm" FORMNAME="EditObjTypeForm" DESIGNCLASS="" ADDITIONAL="source\EditObjTypeFrm.h"/>
+        <FILE FILENAME="source\EditOrderAbrFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderAbrFrm" FORMNAME="EditOrderAbrForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderAbrFrm.h"/>
+        <FILE FILENAME="source\EditOrderAssassinateFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderAssassinateFrm" FORMNAME="EditOrderAssassinateForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderAssassinateFrm.h"/>
+        <FILE FILENAME="source\EditOrderAttackFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderAttackFrm" FORMNAME="EditOrderAttackForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderAttackFrm.h"/>
+        <FILE FILENAME="source\EditOrderAutoGiveFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderAutoGiveFrm" FORMNAME="EditOrderAutoGiveForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderAutoGiveFrm.h"/>
+        <FILE FILENAME="source\EditOrderAutoMoveFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderAutoMoveFrm" FORMNAME="EditOrderAutoMoveForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderAutoMoveFrm.h"/>
+        <FILE FILENAME="source\EditOrderAutoWarningFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderAutoWarningFrm" FORMNAME="EditOrderAutoWarningForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderAutoWarningFrm.h"/>
+        <FILE FILENAME="source\EditOrderBuild.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderBuild" FORMNAME="EditOrderBuildForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderBuild.h"/>
+        <FILE FILENAME="source\EditOrderBuySellFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderBuySellFrm" FORMNAME="EditOrderBuySellForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderBuySellFrm.h"/>
+        <FILE FILENAME="source\EditOrderByteFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderByteFrm" FORMNAME="EditOrderByteForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderByteFrm.h"/>
+        <FILE FILENAME="source\EditOrderCastFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderCastFrm" FORMNAME="EditOrderCastForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderCastFrm.h"/>
+        <FILE FILENAME="source\EditOrderCommentFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderCommentFrm" FORMNAME="EditOrderCommentForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderCommentFrm.h"/>
+        <FILE FILENAME="source\EditOrderCustomFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderCustomFrm" FORMNAME="EditOrderCustomForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderCustomFrm.h"/>
+        <FILE FILENAME="source\EditOrderDescrFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderDescrFrm" FORMNAME="EditOrderDescrForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderDescrFrm.h"/>
+        <FILE FILENAME="source\EditOrderEnterFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderEnterFrm" FORMNAME="EditOrderEnterForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderEnterFrm.h"/>
+        <FILE FILENAME="source\EditOrderGiveFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderGiveFrm" FORMNAME="EditOrderGiveForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderGiveFrm.h"/>
+        <FILE FILENAME="source\EditOrderIntFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderIntFrm" FORMNAME="EditOrderIntForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderIntFrm.h"/>
+        <FILE FILENAME="source\EditOrderMovingFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderMovingFrm" FORMNAME="EditOrderMovingForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderMovingFrm.h"/>
+        <FILE FILENAME="source\EditOrderNameDescribeFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderNameDescribeFrm" FORMNAME="EditOrderNameDescribeForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderNameDescribeFrm.h"/>
+        <FILE FILENAME="source\EditOrderPromoteFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderPromoteFrm" FORMNAME="EditOrderPromoteForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderPromoteFrm.h"/>
+        <FILE FILENAME="source\EditOrderReceiveFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderReceiveFrm" FORMNAME="EditOrderReceiveForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderReceiveFrm.h"/>
+        <FILE FILENAME="source\EditOrdersFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrdersFrm" FORMNAME="EditOrdersForm" DESIGNCLASS="" ADDITIONAL="source\EditOrdersFrm.h"/>
+        <FILE FILENAME="source\EditOrderSimpleFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderSimpleFrm" FORMNAME="EditOrderSimpleForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderSimpleFrm.h"/>
+        <FILE FILENAME="source\EditOrderStealFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderStealFrm" FORMNAME="EditOrderStealForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderStealFrm.h"/>
+        <FILE FILENAME="source\EditOrderTeachFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderTeachFrm" FORMNAME="EditOrderTeachForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderTeachFrm.h"/>
+        <FILE FILENAME="source\EditOrderWithdrawFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderWithdrawFrm" FORMNAME="EditOrderWithdrawForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderWithdrawFrm.h"/>
+        <FILE FILENAME="source\EditSkillTypeFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditSkillTypeFrm" FORMNAME="EditSkillTypeForm" DESIGNCLASS="" ADDITIONAL="source\EditSkillTypeFrm.h"/>
+        <FILE FILENAME="source\EditTurnOrder.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditTurnOrder" FORMNAME="fEditTurnOrder" DESIGNCLASS="" ADDITIONAL="source\EditTurnOrder.h"/>
+        <FILE FILENAME="source\EditWeap.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditWeap" FORMNAME="fEditWeap" DESIGNCLASS="" ADDITIONAL="source\EditWeap.h"/>
+        <FILE FILENAME="source\EventsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EventsFrm" FORMNAME="EventsForm" DESIGNCLASS="" ADDITIONAL="source\EventsFrm.h"/>
+        <FILE FILENAME="source\ExpressionEditorFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ExpressionEditorFrm" FORMNAME="ExpressionEditorForm" DESIGNCLASS="" ADDITIONAL="source\ExpressionEditorFrm.h"/>
+        <FILE FILENAME="source\exprlang.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="exprlang" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\exprlang.h"/>
+        <FILE FILENAME="source\faction.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="faction" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\faction.h"/>
+        <FILE FILENAME="source\FormNewUnitFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="FormNewUnitFrm" FORMNAME="FormNewUnitForm" DESIGNCLASS="" ADDITIONAL="source\FormNewUnitFrm.h"/>
+        <FILE FILENAME="source\gameparams.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="gameparams" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\gameparams.h"/>
+        <FILE FILENAME="source\gameparamsfrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="gameparamsfrm" FORMNAME="GameParamsForm" DESIGNCLASS="" ADDITIONAL="source\gameparamsfrm.h"/>
+        <FILE FILENAME="source\GetItem.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="GetItem" FORMNAME="fGetItem" DESIGNCLASS="" ADDITIONAL="source\GetItem.h"/>
+        <FILE FILENAME="source\i_rand.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="i_rand" FORMNAME="" DESIGNCLASS=""/>
+        <FILE FILENAME="source\import.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="import" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\import.h"/>
+        <FILE FILENAME="source\items.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="items" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\items.h"/>
+        <FILE FILENAME="source\LinkShaftFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="LinkShaftFrm" FORMNAME="LinkShaftForm" DESIGNCLASS="" ADDITIONAL="source\LinkShaftFrm.h"/>
+        <FILE FILENAME="source\MainFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="MainFrm" FORMNAME="AtlaForm" DESIGNCLASS="" ADDITIONAL="source\MainFrm.h"/>
+        <FILE FILENAME="source\MapFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="MapFrm" FORMNAME="MapForm" DESIGNCLASS="" ADDITIONAL="source\MapFrm.h"/>
+        <FILE FILENAME="source\markets.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="markets" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\markets.h"/>
+        <FILE FILENAME="source\NewGameFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="NewGameFrm" FORMNAME="NewGameForm" DESIGNCLASS="" ADDITIONAL="source\NewGameFrm.h"/>
+        <FILE FILENAME="source\OptionsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="OptionsFrm" FORMNAME="OptionsForm" DESIGNCLASS="" ADDITIONAL="source\OptionsFrm.h"/>
+        <FILE FILENAME="source\orders.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="orders" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\orders.h"/>
+        <FILE FILENAME="source\ProdModeSetupFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ProdModeSetupFrm" FORMNAME="ProdModeSetupForm" DESIGNCLASS="" ADDITIONAL="source\ProdModeSetupFrm.h"/>
+        <FILE FILENAME="source\ProductsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ProductsFrm" FORMNAME="ProductsForm" DESIGNCLASS="" ADDITIONAL="source\ProductsFrm.h"/>
+        <FILE FILENAME="source\RegInfoFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="RegInfoFrm" FORMNAME="RegInfoForm" DESIGNCLASS="" ADDITIONAL="source\RegInfoFrm.h"/>
+        <FILE FILENAME="source\region.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="region" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\region.h"/>
+        <FILE FILENAME="source\RegionListFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="RegionListFrm" FORMNAME="RegionListForm" DESIGNCLASS="" ADDITIONAL="source\RegionListFrm.h"/>
+        <FILE FILENAME="source\reports.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="reports" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\reports.h"/>
+        <FILE FILENAME="source\ReqFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ReqFrm" FORMNAME="ReqForm" DESIGNCLASS="" ADDITIONAL="source\ReqFrm.h"/>
+        <FILE FILENAME="source\SaveMapFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="SaveMapFrm" FORMNAME="SaveMapForm" DESIGNCLASS="" ADDITIONAL="source\SaveMapFrm.h"/>
+        <FILE FILENAME="source\SetFlagsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="SetFlagsFrm" FORMNAME="SetFlagsForm" DESIGNCLASS="" ADDITIONAL="source\SetFlagsFrm.h"/>
+        <FILE FILENAME="source\SetLevelSizeFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="SetLevelSizeFrm" FORMNAME="SetLevelSizeForm" DESIGNCLASS="" ADDITIONAL="source\SetLevelSizeFrm.h"/>
+        <FILE FILENAME="source\shortcuts.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="shortcuts" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\shortcuts.h"/>
+        <FILE FILENAME="source\ShortCutsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ShortCutsFrm" FORMNAME="ShortCutsForm" DESIGNCLASS="" ADDITIONAL="source\ShortCutsFrm.h"/>
+        <FILE FILENAME="source\ShowItemTypesFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ShowItemTypesFrm" FORMNAME="ShowItemTypesForm" DESIGNCLASS="" ADDITIONAL="source\ShowItemTypesFrm.h"/>
+        <FILE FILENAME="source\ShowItObjInfosFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ShowItObjInfosFrm" FORMNAME="ShowItObjInfosForm" DESIGNCLASS="" ADDITIONAL="source\ShowItObjInfosFrm.h"/>
+        <FILE FILENAME="source\ShowObjTypesFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ShowObjTypesFrm" FORMNAME="ShowObjTypesForm" DESIGNCLASS="" ADDITIONAL="source\ShowObjTypesFrm.h"/>
+        <FILE FILENAME="source\ShowWeatherRegionsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ShowWeatherRegionsFrm" FORMNAME="ShowWeatherRegionsForm" DESIGNCLASS="" ADDITIONAL="source\ShowWeatherRegionsFrm.h"/>
+        <FILE FILENAME="source\skills.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="skills" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\skills.h"/>
+        <FILE FILENAME="source\smapi.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="smapi" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\smapi.h"/>
+        <FILE FILENAME="source\StoreFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="StoreFrm" FORMNAME="StoreForm" DESIGNCLASS="" ADDITIONAL="source\StoreFrm.h"/>
+        <FILE FILENAME="source\SupportBuildingFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="SupportBuildingFrm" FORMNAME="SupportBuildingForm" DESIGNCLASS="" ADDITIONAL="source\SupportBuildingFrm.h"/>
+        <FILE FILENAME="source\TownTrade.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="TownTrade" FORMNAME="fTownTrade" DESIGNCLASS="" ADDITIONAL="source\TownTrade.h"/>
+        <FILE FILENAME="source\turn.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="turn" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\turn.h"/>
+        <FILE FILENAME="source\unit.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="unit" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\unit.h"/>
+        <FILE FILENAME="source\util.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="util" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\util.h"/>
+        <FILE FILENAME="source\ViewChangesFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ViewChangesFrm" FORMNAME="ViewChangesForm" DESIGNCLASS="" ADDITIONAL="source\ViewChangesFrm.h"/>
+        <FILE FILENAME="source\ViewFactionsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ViewFactionsFrm" FORMNAME="ViewFactionsForm" DESIGNCLASS="" ADDITIONAL="source\ViewFactionsFrm.h"/>
+        <FILE FILENAME="source\ViewGatesFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ViewGatesFrm" FORMNAME="ViewGatesForm" DESIGNCLASS="" ADDITIONAL="source\ViewGatesFrm.h"/>
+        <FILE FILENAME="source\viewitems.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="viewitems" FORMNAME="" DESIGNCLASS="" ADDITIONAL="source\viewitems.h"/>
+        <FILE FILENAME="source\ViewMagesFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ViewMagesFrm" FORMNAME="ViewMagesForm" DESIGNCLASS="" ADDITIONAL="source\ViewMagesFrm.h"/>
+        <FILE FILENAME="source\ViewSpecialistsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ViewSpecialistsFrm" FORMNAME="ViewSpecialistsForm" DESIGNCLASS="" ADDITIONAL="source\ViewSpecialistsFrm.h"/>
+        <FILE FILENAME="source\ViewTaxRegionsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ViewTaxRegionsFrm" FORMNAME="ViewTaxRegionsForm" DESIGNCLASS="" ADDITIONAL="source\ViewTaxRegionsFrm.h"/>
+        <FILE FILENAME="source\ViewUnitsFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ViewUnitsFrm" FORMNAME="ViewUnitsForm" DESIGNCLASS="" ADDITIONAL="source\ViewUnitsFrm.h"/>
+        <FILE FILENAME="source\ViewUnitsSetupFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="ViewUnitsSetupFrm" FORMNAME="ViewUnitsSetupForm" DESIGNCLASS="" ADDITIONAL="source\ViewUnitsSetupFrm.h"/>
+        <FILE FILENAME="source\FlagFiltr.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="FlagFiltr" FORMNAME="fFlagFiltr" DESIGNCLASS="" ADDITIONAL="source\FlagFiltr.h"/>
+        <FILE FILENAME="source\EditItems.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditItems" FORMNAME="fEditItems" DESIGNCLASS="" ADDITIONAL="source\EditItems.h"/>
+        <FILE FILENAME="source\SkillsTree.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="SkillsTree" FORMNAME="fSkillsTree" DESIGNCLASS="" ADDITIONAL="source\SkillsTree.h"/>
+        <FILE FILENAME="source\GetSkilLv.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="GetSkilLv" FORMNAME="fGetSkilLv" DESIGNCLASS="" ADDITIONAL="source\GetSkilLv.h"/>
+        <FILE FILENAME="source\EditItemTypeFrm.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditItemTypeFrm" FORMNAME="EditItemTypeForm" DESIGNCLASS="" ADDITIONAL="source\EditItemTypeFrm.h"/>
+        <FILE FILENAME="source\SelEditScr.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="SelEditScr" FORMNAME="fSelEditScr" DESIGNCLASS="" ADDITIONAL="source\SelEditScr.h"/>
+        <FILE FILENAME="source\EditScript.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditScript" FORMNAME="fEditScript" DESIGNCLASS="" ADDITIONAL="source\EditScript.h"/>
+        <FILE FILENAME="source\EditOrderAutoFollow.cpp" CONTAINERID="CCompiler" LOCALCOMMAND="" UNITNAME="EditOrderAutoFollow" FORMNAME="EditOrderAutoFollowForm" DESIGNCLASS="" ADDITIONAL="source\EditOrderAutoFollow.h"/>
+      </FILELIST>
+      <IDEOPTIONS>
+        <VersionInfo>
+          <VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+          <VersionInfo Name="AutoIncBuild">False</VersionInfo>
+          <VersionInfo Name="MajorVer">0</VersionInfo>
+          <VersionInfo Name="MinorVer">9</VersionInfo>
+          <VersionInfo Name="Release">6</VersionInfo>
+          <VersionInfo Name="Build">1</VersionInfo>
+          <VersionInfo Name="Debug">False</VersionInfo>
+          <VersionInfo Name="PreRelease">False</VersionInfo>
+          <VersionInfo Name="Special">False</VersionInfo>
+          <VersionInfo Name="Private">False</VersionInfo>
+          <VersionInfo Name="DLL">False</VersionInfo>
+          <VersionInfo Name="Locale">1033</VersionInfo>
+          <VersionInfo Name="CodePage">1252</VersionInfo>
+        </VersionInfo>
+        <VersionInfoKeys>
+          <VersionInfoKeys Name="CompanyName">EAP inc.</VersionInfoKeys>
+          <VersionInfoKeys Name="FileDescription">AtlaClient</VersionInfoKeys>
+          <VersionInfoKeys Name="FileVersion">0.9.6.1</VersionInfoKeys>
+          <VersionInfoKeys Name="InternalName"></VersionInfoKeys>
+          <VersionInfoKeys Name="LegalCopyright">Copyright (c) 2000 by Evgeny Pashkin; (c) 2008 by Alexey Kondrin aka Loudeo</VersionInfoKeys>
+          <VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys>
+          <VersionInfoKeys Name="OriginalFilename">AtlaClient</VersionInfoKeys>
+          <VersionInfoKeys Name="ProductName">Client for Atlantis</VersionInfoKeys>
+          <VersionInfoKeys Name="ProductVersion">0.9.6</VersionInfoKeys>
+          <VersionInfoKeys Name="Comments"></VersionInfoKeys>
+        </VersionInfoKeys>
+        <HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Count">14</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item0">D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl;$(BCB)\Lib\RX\units</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item1">D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item2">D:\Program Files\Borland\CBuilder5\Projects;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item3">source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item4">D:\cb5\CBuilder5\Projects\;C:\Cbuilder4\CBuilder4\Projects\;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item5">D:\cb5\CBuilder5\Projects;C:\Cbuilder4\CBuilder4\Projects\;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item6">..\..\Cbuilder4\CBuilder4\Projects;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item7">..\..\cbuilder4\CBuilder4\Projects;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item8">..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item9">C:\cb4\CBuilder4\Projects\;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item10">C:\cb4\CBuilder4\Projects;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item11">C:\cb4\CBuilder4\Projects\;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item12">C:\cb4\CBuilder4\Projects;C:\cb4\CBuilder4\Projects\;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+          <HistoryLists_hlIncludePath Name="Item13">C:\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl</HistoryLists_hlIncludePath>
+        </HistoryLists_hlIncludePath>
+        <HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Count">16</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item0">D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\Lib\RX\dcu\C5;$(BCB)\Lib\RX\units</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item1">D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\Lib\RX\C5</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item2">D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item3">D:\Program Files\Borland\CBuilder5\Projects;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item4">source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item5">D:\cb5\CBuilder5\Projects\;C:\Cbuilder4\CBuilder4\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item6">D:\cb5\CBuilder5\Projects;C:\Cbuilder4\CBuilder4\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item7">..\..\Cbuilder4\CBuilder4\Projects;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item8">source;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item9">..\..\cbuilder4\CBuilder4\Projects;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item10">..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item11">C:\cb4\CBuilder4\Projects\;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item12">C:\cb4\CBuilder4\Projects;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item13">C:\cb4\CBuilder4\Projects\;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item14">C:\cb4\CBuilder4\Projects;C:\cb4\CBuilder4\Projects\;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+          <HistoryLists_hlLibraryPath Name="Item15">C:\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib</HistoryLists_hlLibraryPath>
+        </HistoryLists_hlLibraryPath>
+        <HistoryLists_hlDebugSourcePath>
+          <HistoryLists_hlDebugSourcePath Name="Count">1</HistoryLists_hlDebugSourcePath>
+          <HistoryLists_hlDebugSourcePath Name="Item0">$(BCB)\source\vcl</HistoryLists_hlDebugSourcePath>
+        </HistoryLists_hlDebugSourcePath>
+        <HistoryLists_hlConditionals>
+          <HistoryLists_hlConditionals Name="Count">2</HistoryLists_hlConditionals>
+          <HistoryLists_hlConditionals Name="Item0">_DEBUG;ATLACLIENT</HistoryLists_hlConditionals>
+          <HistoryLists_hlConditionals Name="Item1">_DEBUG</HistoryLists_hlConditionals>
+        </HistoryLists_hlConditionals>
+        <HistoryLists_hlIntOutputDir>
+          <HistoryLists_hlIntOutputDir Name="Count">1</HistoryLists_hlIntOutputDir>
+          <HistoryLists_hlIntOutputDir Name="Item0">C:\-\atlaclient</HistoryLists_hlIntOutputDir>
+        </HistoryLists_hlIntOutputDir>
+        <HistoryLists_hlFinalOutputDir>
+          <HistoryLists_hlFinalOutputDir Name="Count">1</HistoryLists_hlFinalOutputDir>
+          <HistoryLists_hlFinalOutputDir Name="Item0">C:\-\atlaclient</HistoryLists_hlFinalOutputDir>
+        </HistoryLists_hlFinalOutputDir>
+        <Debugging>
+          <Debugging Name="DebugSourceDirs">$(BCB)\source\vcl</Debugging>
+        </Debugging>
+        <Parameters>
+          <Parameters Name="RunParams"></Parameters>
+          <Parameters Name="Launcher"></Parameters>
+          <Parameters Name="UseLauncher">False</Parameters>
+          <Parameters Name="DebugCWD"></Parameters>
+          <Parameters Name="HostApplication"></Parameters>
+          <Parameters Name="RemoteHost"></Parameters>
+          <Parameters Name="RemotePath"></Parameters>
+          <Parameters Name="RemoteParams"></Parameters>
+          <Parameters Name="RemoteLauncher"></Parameters>
+          <Parameters Name="UseRemoteLauncher">False</Parameters>
+          <Parameters Name="RemoteCWD"></Parameters>
+          <Parameters Name="RemoteDebug">False</Parameters>
+          <Parameters Name="Debug Symbols Search Path"></Parameters>
+          <Parameters Name="LoadAllSymbols">True</Parameters>
+          <Parameters Name="LoadUnspecifiedSymbols">False</Parameters>
+        </Parameters>
+        <Linker>
+          <Linker Name="LibPrefix"></Linker>
+          <Linker Name="LibSuffix"></Linker>
+          <Linker Name="LibVersion"></Linker>
+        </Linker>
+      </IDEOPTIONS>
+    </BCBPROJECT>
+		<Source>
+			<Source Name="MainSource">atlaclient.cpp</Source>
+		</Source>
+		<buildevents/>
+	</CPlusPlusBuilder.Personality>
+</BorlandProject>

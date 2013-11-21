@@ -1,0 +1,138 @@
+Ver 4
+"wood","wood","WOOD","LUMB",1,1,1,5,NORMAL,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"AXE"
+"ironwood","ironwood","IRWD","LUMB",3,1,1,10,ADVANCED,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"AXE"
+"yew","yew","YEW","LUMB",5,1,1,5,ADVANCED,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"AXE"
+"herb","herbs","HERB","HERB",1,1,1,0,NORMAL,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:2:"BAG"
+"iron","iron","IRON","MINI",1,1,1,5,NORMAL,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"PICK"
+"mithril","mithril","MITH","MINI",3,1,1,10,ADVANCED,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"PICK"
+"admantium","admantium","ADMT","MINI",5,1,1,10,ADVANCED,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"PICK"
+"stone","stone","STON","QUAR",1,1,1,50,NORMAL,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"PICK"
+"floater hide","floater hides","FLOA","HUNT",3,1,1,1,ADVANCED,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"SPEA"
+"fur","furs","FUR","HUNT",1,1,1,1,NORMAL,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"SPEA"
+"amulet of true seeing","amulets of true seeing","AMTS",0,MAGIC,DONTSHOWINCOMBAT,0,0,0,0
+"amulet of protection","amulets of protection","AMPR",0,MAGIC,0,0,0,0
+"axe","axes","AXE","CARP",1,"WOOD",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"bag","bags","BAG","HERB",1,"HERB",1,1,1,1,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:2:"SPIN"
+"battle axe","battle axes","BAXE","WEAP",2,"IRON",1:"WOOD",1,2,1,2,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"camel","camels","CAME","ANIM",1,1,1,50,NORMAL,MOUNT,70,70,0,0,HELPPROD:1:"LASS"
+"chain armor","chain armor","CARM","ARMO",1,"IRON",1,1,1,1,ARMOR,0,0,0,0,HELPPROD:1:"HAMM"
+"chocolate","chocolate","CHOC",5,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"cloak of invulnerability","cloaks of invulnerability","CLOA",0,MAGIC,ARMOR,0,0,0,0
+"cloth armor","cloth armor","CLAR","ARMO",1,"HERB",1,1,1,1,ARMOR,0,0,0,0,HELPPROD:2:"SPIN"
+"crossbow","crossbows","XBOW","WEAP",1,"WOOD",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"AXE"
+"double bow","double bows","DBOW","WEAP",5,"YEW",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"AXE"
+"figurines","figurines","FIGU",1,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"fish","fish","FISH","FISH",1,1,1,1,NORMAL,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:2:"NET"
+"glider","gliders","GLID","CARP",5,"FLOA",2,2,1,5,0,0,15,0,HELPPROD:1:"AXE"
+"grain","grain","GRAI","FARM",1,1,1,5,NORMAL,FOOD,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:2:"BAG"
+"hammer","hammers","HAMM","CARP",1,"IRON",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"horse","horses","HORS","ANIM",1,1,1,50,NORMAL,MOUNT,70,70,0,0,HELPPROD:1:"LASS"
+"javelin","javelins","JAVE","WEAP",1,"WOOD",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"AXE"
+"jewelry","jewelry","JEWE",1,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"lance","lances","LANC","WCRA",1,"WOOD",2,2,1,2,WEAPON,0,0,0,0,HELPPROD:1:"AXE"
+"lasso","lassoes","LASS","HERB",1,"HERB",1,1,1,1,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:2:"SPIN"
+"leather armor","leather armor","LARM","ARMO",1,"FUR",1,1,1,1,ARMOR,0,0,0,0,HELPPROD:2:"SPIN"
+"livestock","livestock","LIVE","RANC",1,1,1,50,NORMAL,FOOD,DONTSHOWINCOMBAT,50,0,0,0,HELPPROD:1:"LASS"
+"longbow","longbows","LBOW","WEAP",1,"WOOD",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"AXE"
+"magic carpet","magic carpets","CARP",0,MAGIC,DONTSHOWINCOMBAT,15,15,15,0
+"magic crossbow","magic crossbows","MXBO","WEAP",4,"IRWD",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"AXE"
+"magic wagon","magic wagons","MWAG","CARP",3,"IRWD",1,1,1,50,DONTSHOWINCOMBAT,250,250,0,0,HELPPROD:1:"AXE"
+"mithril armor","mithril armor","MARM","ARMO",3,"MITH",1,1,1,1,ARMOR,0,0,0,0,HELPPROD:1:"HAMM"
+"mithril sword","mithril swords","MSWO","WEAP",3,"MITH",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"net","nets","NET","FISH",1,"HERB",1,1,1,1,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:2:"SPIN"
+"pearls","pearls","PEAR",1,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"pick","picks","PICK","CARP",1,"IRON",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"pike","pikes","PIKE","WCRA",1,"WOOD",1:"IRON",1,2,1,2,WEAPON,0,0,0,0,HELPPROD:1:"AXE"
+"plate armor","plate armor","PARM","ARMO",3,"IRON",3,3,1,3,ARMOR,0,0,0,0,HELPPROD:1:"HAMM"
+"ring of invisibility","rings of invisibility","RING",0,MAGIC,DONTSHOWINCOMBAT,0,0,0,0
+"rootstone","rootstone","ROOT","QUAR",3,1,1,50,ADVANCED,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"PICK"
+"runesword","runeswords","RUNE",1,MAGIC,WEAPON,BATTLE,0,0,0,0
+"sabre","sabres","SABR","WEAP",2,"IRON",1:"WOOD",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"shieldstone","shieldstones","SHST",0,MAGIC,BATTLE,0,0,0,0
+"silk","silk","SILK",5,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"spear","spears","SPEA","CARP",1,"WOOD",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"AXE"
+"spices","spices","SPIC",1,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"spinning wheel","spinning wheels","SPIN","CARP",1,"WOOD",1,1,1,1,DONTSHOWINCOMBAT,0,0,0,0,HELPPROD:1:"AXE"
+"staff of fire","staves of fire","STAF",0,MAGIC,BATTLE,0,0,0,0
+"staff of lightning","staves of lightning","STAL",0,MAGIC,BATTLE,0,0,0,0
+"super bow","super bows","SBOW","WCRA",4,"YEW",2:"MITH",1,2,1,1,WEAPON,0,0,0,0,HELPPROD:1:"AXE"
+"sword","swords","SWOR","WEAP",1,"IRON",1,1,1,1,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"vodka","vodka","VODK",5,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"wagon","wagons","WAGO","CARP",1,"WOOD",1,1,1,50,DONTSHOWINCOMBAT,250,0,0,0,HELPPROD:1:"AXE"
+"war mole","war moles","WMOL","ANIM",2,1,1,50,NORMAL,MOUNT,65,65,0,0,HELPPROD:1:"LASS"
+"wine","wine","WINE",5,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"winged horse","winged horses","WING","ANIM",5,1,1,50,ADVANCED,MOUNT,70,70,70,0,HELPPROD:1:"LASS"
+"wooden shield","wooden shields","WSHI","CARP",1,"WOOD",1,1,1,1,ARMOR,0,0,0,0,HELPPROD:2:"AXE"
+"wool","wool","WOOL",5,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"silver","silver","SILV",0,NORMAL,DONTSHOWINCOMBAT,0,0,0,0
+"leader","leaders","LEAD",10,MAN,LEADER,15,0,0,0
+"viking","vikings","VIKI",10,MAN,15,0,0,0
+"barbarian","barbarians","BARB",10,MAN,15,0,0,0
+"plainsman","plainsmen","PLAI",10,MAN,15,0,0,0
+"eskimo","eskimos","ESKI",10,MAN,15,0,0,0
+"nomad","nomads","NOMA",10,MAN,15,0,0,0
+"tribesman","tribesmen","TMAN",10,MAN,15,0,0,0
+"darkman","darkmen","DMAN",10,MAN,15,0,0,0
+"wood elf","wood elves","WELF",10,MAN,15,0,0,0
+"sea elf","sea elves","SELF",10,MAN,15,0,0,0
+"high elf","high elves","HELF",10,MAN,15,0,0,0
+"tribal elf","tribal elves","TELF",10,MAN,15,0,0,0
+"ice dwarf","ice dwarves","IDWA",10,MAN,15,0,0,0
+"hill dwarf","hill dwarves","HDWA",10,MAN,15,0,0,0
+"under dwarf","under dwarves","UDWA",10,MAN,15,0,0,0
+"desert dwarf","desert dwarves","DDWA",10,MAN,15,0,0,0
+"orc","orcs","ORC",10,MAN,15,0,0,0
+"lizard man","lizard men","LMAN",10,MONSTER,15,0,0,0
+"grizzly bear","grizzly bears","GRIZ",50,MONSTER,60,0,0,0
+"mithril battle axe","mithril battle axes","MBAX","WCRA",2,"MITH",1:"IRWD",1,2,1,2,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"admantium sword","admantium swords","ASWR","WCRA",3,"ADMT",1,2,1,1,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"admantium battle axe","admantium battle axes","ABAX","WCRA",5,"ADMT",1:"IRWD",1,2,1,2,WEAPON,0,0,0,0,HELPPROD:1:"HAMM"
+"admantium plate mail","admantium plate mails","AARM","ACRA",5,"ADMT",1,4,1,1,ARMOR,0,0,0,0,HELPPROD:1:"HAMM"
+"plate shield","plate shields","PSHI","CARP",3,"IRON",1:"WOOD",1,1,1,1,ARMOR,0,0,0,0,HELPPROD:2:"HAMM"
+"mithril shield","mithril shields","MSHI","CARP",5,"MITH",1,1,1,1,ARMOR,0,0,0,0,HELPPROD:1:"HAMM"
+"ivory","ivory","IVOR",1,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"perfume","perfume","PERF",1,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"caviar","caviar","CAVI",1,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"skeleton","skeletons","SKEL",10,MONSTER,15,0,0,0
+"undead","undead","UNDE",10,MONSTER,15,0,0,0
+"lich","liches","LICH",10,MONSTER,15,0,0,0
+"wolf","wolves","WOLF",CANTGIVE,10,MONSTER,15,15,0,0
+"tarot cards","tarot cards","TARO",1,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"cashmere","cashmere","CASH",5,TRADE,DONTSHOWINCOMBAT,0,0,0,0
+"ogre","ogres","OGRE",50,MONSTER,60,0,0,0
+"trent","trents","TREN",250,MONSTER,300,0,0,0
+"dragon","dragons","DRAG",250,MONSTER,300,300,300,0
+"giant lizard","giant lizards","GLIZ",50,MONSTER,60,0,0,0
+"kobold","kobolds","KOBO",10,MONSTER,15,0,0,0
+"ettin","ettins","ETTI",50,MONSTER,60,0,0,0
+"lion","lions","LION",10,MONSTER,15,0,0,0
+"crocodile","crocodiles","CROC",10,MONSTER,15,0,0,0
+"anaconda","anacondas","ANAC",50,MONSTER,60,0,0,0
+"giant scorpion","giant scorpions","SCOR",10,MONSTER,15,0,0,0
+"polar bear","polar bears","POLA",50,MONSTER,60,0,0,0
+"giant rat","giant rats","GRAT",10,MONSTER,15,0,0,0
+"giant spider","giant spiders","GSPI",50,MONSTER,60,0,0,0
+"roc","rocs","ROC",250,MONSTER,300,300,300,0
+"bog thing","bog things","BOGT",50,MONSTER,60,0,0,0
+"kong","kong","KONG",250,MONSTER,300,0,0,0
+"sphinx","sphinx","SPHI",250,MONSTER,300,300,0,0
+"ice wurm","ice wurms","ICEW",250,MONSTER,300,0,0,0
+"centaur","centaurs","CENT",50,MONSTER,60,60,0,0
+"wild man","wild men","WMAN",10,MONSTER,15,0,0,0
+"sandling","sandlings","SAND",10,MONSTER,15,0,0,0
+"yeti","yeti","YETI",50,MONSTER,60,0,0,0
+"goblin","goblins","GOBL",10,MONSTER,15,0,0,0
+"troll","trolls","TROL",50,MONSTER,60,0,0,0
+"imp","imps","IMP",10,MONSTER,15,0,0,0
+"demon","demons","DEMO",50,MONSTER,60,60,0,0
+"balrog","balrogs","BALR",250,MONSTER,300,300,300,0
+"eagle","eagles","EAGL",CANTGIVE,10,MONSTER,15,15,15,0
+"catapult","catapults","CATP","CARP",5,"IRON",50:"IRWD",80:"ROOT",40,5,1,1000,1010,0,0,0
+"boots of levitation","boots of levitation","BOOT",0,DONTSHOWINCOMBAT,0,0,0,15
+"MUSH","MUSH","MUSH",-1,0,0,0,0
+"portal","portal","PORT",1,DONTSHOWINCOMBAT,0,0,0,0
+"amulet of invulnerability","amulets of invulnerability","XXXX",0,0,0,0,0
+"merfolk","merfolk","MERF",10,MONSTER,0,0,0,15
+"pirates","pirates","PIRA",10,MONSTER,15,0,0,15
+"kraken","krakens","KRAK",10,MONSTER,300,0,0,300
+"elemental","elementals","ELEM",-1,MONSTER,0,0,0,0

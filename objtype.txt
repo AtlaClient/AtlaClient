@@ -1,0 +1,38 @@
+"Arcane Mine",0,0,"MITH",20,"MINI",3,0,1,"MITH"
+"Armored Galleon",200,2000,"IRWD",75,"SHIP",4,15,1
+"Balloon",0,800,"FLOA",50,"SHIP",5,10,1
+"Castle",250,50,"STON",160,"BUIL",2,0,1
+"Citadel",1250,100,"STON",480,"BUIL",3,0,1
+"Clipper",0,800,"WOOD",50,"SHIP",2,10,1
+"Farm",0,0,"WOOD_OR_STONE",10,"FARM",3,0,1,"GRAI"
+"Forest Preserve",0,0,"IRWD",20,"LUMB",3,0,1,"IRWD"
+"Fort",50,20,"STON",40,"BUIL",1,0,1
+"Galleon",0,1800,"WOOD",750,"SHIP",3,15,1
+"Inn",0,0,"WOOD_OR_STONE",10,"BUIL",3,0,1,"SILV"
+"Longboat",0,200,"WOOD",25,"SHIP",1,5,1
+"Mine",0,0,"WOOD_OR_STONE",10,"MINI",3,0,1,"IRON"
+"Mystic Quarry",0,0,"ROOT",10,"QUAR",3,0,1,"ROOT"
+"Quarry",0,0,"WOOD_OR_STONE",10,"QUAR",1,0,1,"STON"
+"Ranch",0,0,"WOOD_OR_STONE",10,"RANC",1,0,1,"LIVE"
+"Road N",0,0,"STON",45,"BUIL",1,0,1,ROAD:N
+"Road NE",0,0,"STON",45,"BUIL",1,0,1,ROAD:NE
+"Road NW",0,0,"STON",45,"BUIL",1,0,1,ROAD:NW
+"Black Keep",0,0,0,0
+"Cave",0,0,0,0
+"Cavern",0,0,0,0
+"Crypt",0,0,0,0
+"Demon Pit",0,0,0,0
+"Derelict Ship",0,0,0,0
+"Road S",0,0,"STON",45,"BUIL",1,0,1,ROAD:S
+"Road SE",0,0,"STON",45,"BUIL",1,0,1,ROAD:SE
+"Road SW",0,0,"STON",45,"BUIL",1,0,1,ROAD:SW
+"Sacred Grove",0,0,"YEW",30,"LUMB",5,0,1,"YEW"
+"Shaft",0,0,0,1
+"Stockade",10,5,"WOOD",30,"BUIL",1,0,1
+"Island",0,0,0,0
+"Lair",0,0,0,0
+"Ruin",0,0,0,0
+"Temple",0,0,"STON",10,"BUIL",3,0,1,"HERB"
+"Timber Yard",0,0,"WOOD_OR_STONE",10,"LUMB",3,0,1,"WOOD"
+"Tower",10,10,"STON",10,"BUIL",1,0,1
+"Whirlpool",0,0,0,0

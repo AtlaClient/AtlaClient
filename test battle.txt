@@ -1,0 +1,519 @@
+Unit (10380) attacks Unit (7216) in swamp (23,43) in Xontormia!
+
+Attackers:
+Unit (10380), Black Company (19), behind, leader [LEAD], magic
+  crossbow [MXBO], staff of fire [STAF], crossbow 3.
+Unit (2786), Black Company (19), 94 sea elves [SELF], 453 swords
+  [SWOR], 16 mithril armor [MARM], combat 2.
+Unit (2610), Black Company (19), behind, 80 leaders [LEAD], 10
+  longbows [LBOW], 70 double bows [DBOW], 44 horses [HORS], longbow 5.
+Unit (2800), Black Company (19), 100 leaders [LEAD], 100 swords
+  [SWOR], 100 chain armor [CARM], 60 horses [HORS], combat 4.
+Unit (1975), Black Company (19), behind, leader [LEAD], horse [HORS],
+  tactics 5.
+Unit (2899), Black Company (19), leader [LEAD], lance [LANC], camel
+  [CAME], combat 2, riding 5.
+Merfolk Hunters (14932), Black Company (19), 100 orcs [ORC], 100 chain
+  armor [CARM], 7 mithril chain armor [MCAR], 13 giant moles [MOLE],
+  105 wolves [MWOL], combat 4.
+Unit (4581), Black Company (19), 20 leaders [LEAD], 20 swords [SWOR],
+  20 mithril armor [MARM], 20 camels [CAME], combat 5, riding 3.
+Unit (2792), Black Company (19), 338 leaders [LEAD], 81 swords [SWOR],
+  31 mithril swords [MSWO], 262 battle axes [BAXE], 309 mithril armor
+  [MARM], 7 improved mithril armor [IMTH], 27 admantium ring mails
+  [ARNG], 12 mithril chain armor [MCAR], 137 winged horses [WING], 201
+  camels [CAME], combat 5, riding 4.
+Unit (1913), Black Company (19), 41 leaders [LEAD], 13 mithril swords
+  [MSWO], 23 mithril battle axes [MBAX], 5 admantium swords [ASWR], 2
+  admantium battle axes [ABAX], 41 admantium ring mails [ARNG], 41
+  winged horses [WING], 37 amulets of protection [AMPR], 7
+  shieldstones [SHST], combat 5, riding 5.
+Unit (4381), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], staff of fire [STAF], crossbow 2, riding 5.
+Unit (6528), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], staff of fire [STAF], tactics 5, crossbow 2.
+Unit (6542), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], staff of fire [STAF], tactics 5, crossbow 2.
+Unit (1845), Black Company (19), leader [LEAD], lance [LANC], camel
+  [CAME], riding 4.
+Unit (521), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], horse [HORS], tactics 5, crossbow 1, riding 3.
+Unit (2737), Black Company (19), 50 leaders [LEAD], 50 lances [LANC],
+  50 chain armor [CARM], 50 camels [CAME], riding 3.
+Unit (1477), Black Company (19), behind, leader [LEAD], horse [HORS],
+  tactics 5.
+Unit (1491), Black Company (19), behind, leader [LEAD], horse [HORS],
+  tactics 5.
+Unit (1540), Black Company (19), behind, leader [LEAD], horse [HORS],
+  tactics 5.
+Unit (1771), Black Company (19), 7 leaders [LEAD], 7 lances [LANC], 7
+  winged horses [WING], crossbow 1, riding 4.
+.meat (1453), Black Company (19), 4700 sea elves [SELF], 4700
+  quarterstaves [QUAR], 2007 horses [HORS], 74 camels [CAME], 269
+  wolves [MWOL], 41 magic wagons [MWAG], combat 1.
+Unit (1472), Black Company (19), 940 leaders [LEAD], 940 swords
+  [SWOR], 940 quarterstaves [QUAR], 564 horses [HORS], combat 1.
+.meat (1130), Black Company (19), 1910 vikings [VIKI], 1910 swords
+  [SWOR], 1051 horses [HORS], combat 1.
+Unit (1791), Black Company (19), behind, 2600 sea elves [SELF], 2600
+  longbows [LBOW], 1384 horses [HORS], 46 camels [CAME], longbow 3.
+Unit (2147), Black Company (19), 2259 sea elves [SELF], 123 desert
+  dwarves [DDWA], 679 swords [SWOR], 18 axes [AXE], spear [SPEA], 55
+  lances [LANC], 720 chain armor [CARM], 1360 horses [HORS], combat 2.
+Unit (4759), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], horse [HORS], crossbow 5.
+Unit (1634), Black Company (19), behind, leader [LEAD], longbow
+  [LBOW], horse [HORS], longbow 5.
+Unit (2464), Black Company (19), behind, 5 leaders [LEAD], 5 magic
+  crossbows [MXBO], 3 horses [HORS], crossbow 5.
+Unit (4748), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], horse [HORS], crossbow 5.
+Unit (1551), Black Company (19), behind, leader [LEAD], longbow
+  [LBOW], horse [HORS], longbow 4.
+Unit (2519), Black Company (19), behind, 5 leaders [LEAD], crossbow
+  [XBOW], 4 magic crossbows [MXBO], 3 horses [HORS], crossbow 5.
+Unit (1487), Black Company (19), behind, leader [LEAD], longbow
+  [LBOW], horse [HORS], longbow 5.
+Unit (979), Black Company (19), behind, 43 leaders [LEAD], 43 magic
+  crossbows [MXBO], 24 horses [HORS], crossbow 4.
+Unit (633), Black Company (19), behind, 10 leaders [LEAD], 10 longbows
+  [LBOW], 6 horses [HORS], longbow 3.
+Unit (939), Black Company (19), behind, 6 leaders [LEAD], 6 longbows
+  [LBOW], 4 horses [HORS], longbow 4.
+Unit (3908), Black Company (19), 600 leaders [LEAD], 600 swords
+  [SWOR], 600 chain armor [CARM], 160 horses [HORS], 200 camels
+  [CAME], combat 3.
+Unit (2045), Black Company (19), behind, 9 leaders [LEAD], 9 crossbows
+  [XBOW], 5 horses [HORS], crossbow 1, riding 5.
+Eye (3848), Black Company (19), leader [LEAD], lance [LANC], camel
+  [CAME], riding 4.
+Unit (4389), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], staff of fire [STAF], crossbow 2, riding 5.
+Unit (2065), Black Company (19), behind, leader [LEAD], lance [LANC],
+  horse [HORS], camel [CAME], tactics 5, riding 5.
+Unit (3353), Black Company (19), behind, 380 leaders [LEAD], 380
+  crossbows [XBOW], 209 horses [HORS], crossbow 4.
+Unit (1736), Black Company (19), 200 leaders [LEAD], 200 swords
+  [SWOR], 200 chain armor [CARM], 2 mithril chain armor [MCAR], 105
+  horses [HORS], 5 giant moles [MOLE], 23 wolves [MWOL], combat 3.
+Unit (5344), Black Company (19), behind, leader [LEAD], horse [HORS],
+  tactics 5.
+Unit (3436), Black Company (19), behind, 500 leaders [LEAD], 500
+  longbows [LBOW], 275 horses [HORS], longbow 5.
+Unit (1510), Black Company (19), 100 leaders [LEAD], 100 swords
+  [SWOR], 97 mithril armor [MARM], 100 camels [CAME], combat 4, riding
+  5.
+Patrol (14446), Black Company (19), leader [LEAD], lance [LANC], camel
+  [CAME], riding 4.
+Commanding Merfolk Hunters (14987), Black Company (19), behind, leader
+  [LEAD], crossbow [XBOW], giant mole [MOLE], tactics 5, crossbow 3,
+  riding 3.
+Unit (592), Black Company (19), behind, 50 leaders [LEAD], 50
+  crossbows [XBOW], 27 horses [HORS], giant mole [MOLE], crossbow 3.
+Eye (3771), Black Company (19), leader [LEAD], lance [LANC], camel
+  [CAME], riding 3.
+Unit (1440), Black Company (19), 3938 vikings [VIKI], 1910 swords
+  [SWOR], 51 crossbows [XBOW], 46 longbows [LBOW], 7 quarterstaves
+  [QUAR], 100 chain armor [CARM], 2494 horses [HORS], camel [CAME], 34
+  giant moles [MOLE].
+Unit (4066), Black Company (19), behind, leader [LEAD], tactics 5,
+  riding 1.
+Unit (10315), Black Company (19), behind, leader [LEAD], crossbow
+  [XBOW], horse [HORS], tactics 5, crossbow 3.
+Unit (4044), Black Company (19), 50 leaders [LEAD], 50 swords [SWOR],
+  50 mithril armor [MARM], 50 camels [CAME], combat 5, riding 2.
+Unit (4605), Black Company (19), behind, 50 leaders [LEAD], 50
+  crossbows [XBOW], 28 horses [HORS], crossbow 4.
+Unit (2092), Black Company (19), behind, 50 leaders [LEAD], 50
+  crossbows [XBOW], 28 horses [HORS], crossbow 3.
+Unit (17106), Black Company (19), behind, 100 leaders [LEAD], 100
+  double bows [DBOW], 55 horses [HORS], crossbow 5.
+Xbowteacher (17016), Black Company (19), behind, 10 leaders [LEAD], 10
+  magic crossbows [MXBO], 6 horses [HORS], crossbow 5.
+Unit (17018), Black Company (19), behind, 10 leaders [LEAD], 10 magic
+  crossbows [MXBO], 6 horses [HORS], crossbow 4.
+Unit (17019), Black Company (19), behind, 11 leaders [LEAD], 6
+  crossbows [XBOW], 5 magic crossbows [MXBO], 7 horses [HORS],
+  crossbow 5.
+Unit (17069), Black Company (19), behind, 100 leaders [LEAD], 100
+  crossbows [XBOW], 55 horses [HORS], crossbow 5.
+Unit (21674), Black Company (19), behind, leader [LEAD], magic
+  crossbow [MXBO], horse [HORS], crossbow 4.
+Unit (4010), Black Company (19), behind, 4 leaders [LEAD], 2 crossbows
+  [XBOW], 2 horses [HORS], giant mole [MOLE], tactics 5, crossbow 2.
+Unit (2811), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], runesword [RUNE], horse [HORS], tactics 5, crossbow 2.
+Unit (2842), Black Company (19), behind, leader [LEAD], crossbow
+  [XBOW], horse [HORS], tactics 5, crossbow 2.
+Unit (4668), Black Company (19), behind, 100 leaders [LEAD], 100
+  crossbows [XBOW], 55 horses [HORS], crossbow 5, riding 3.
+Unit (4979), Black Company (19), 71 leaders [LEAD], 71 battle axes
+  [BAXE], 71 chain armor [CARM], 43 horses [HORS], 3 giant moles
+  [MOLE], combat 5.
+Unit (2307), Black Company (19), 39 leaders [LEAD], 39 swords [SWOR],
+  39 chain armor [CARM], 39 camels [CAME], combat 4, riding 1.
+Unit (2826), Black Company (19), behind, leader [LEAD], crossbow
+  [XBOW], horse [HORS], tactics 5, crossbow 1.
+Unit (3379), Black Company (19), behind, leader [LEAD], horse [HORS],
+  tactics 5.
+Unit (2001), Black Company (19), behind, 214 sea elves [SELF], 214
+  longbows [LBOW], 546 quarterstaves [QUAR], 34 giant spiders [MSPI],
+  118 camels [CAME], 29 wolves [MWOL].
+Goblin (2376), Black Company (19), behind, leader [LEAD], 5 dragons
+  [DRAG] (Combat 6/6, Attacks 50, Hits 50, Tactics 4), 10 mithril
+  armor [MARM], staff of lightning [STAL].
+One-eye (2377), Black Company (19), behind, leader [LEAD], 5 dragons
+  [DRAG] (Combat 6/6, Attacks 50, Hits 50, Tactics 4), 21 plate armor
+  [PARM], 5 mithril armor [MARM], staff of lightning [STAL].
+Captain (2023), Black Company (19), behind, leader [LEAD], 5 dragons
+  [DRAG] (Combat 6/6, Attacks 50, Hits 50, Tactics 4), 10 mithril
+  armor [MARM], FSHI 3.
+Unit (4684), Black Company (19), behind, leader [LEAD], staff of fire
+  [STAF], tactics 5.
+Unit (3440), Black Company (19), 100 under dwarves [UDWA], 100 swords
+  [SWOR], 55 horses [HORS], combat 2.
+Unit (3614), Black Company (19), 640 orcs [ORC], 640 battle axes
+  [BAXE], giant spider [MSPI], 212 horses [HORS], 12 camels [CAME], 11
+  giant moles [MOLE], 10 wolves [MWOL], 14 magic wagons [MWAG], combat
+  4.
+Unit (3684), Black Company (19), 3874 orcs [ORC], 4103 swords [SWOR],
+  3 axes [AXE], 115 quarterstaves [QUAR], 1674 leather armor [LARM],
+  2232 horses [HORS], combat 4.
+Eye (2614), Black Company (19), behind, leader [LEAD], double bow
+  [DBOW], leather armor [LARM], horse [HORS], tactics 5, longbow 5.
+Unit (3085), Black Company (19), behind, 330 leaders [LEAD], 330
+  crossbows [XBOW], 182 horses [HORS], crossbow 2.
+Militia crossbows (7268), Black Company (19), behind, 1700 darkmen
+  [DMAN], 3321 crossbows [XBOW], 1017 horses [HORS], crossbow 1.
+XBOW division (14567), Black Company (19), behind, 197 nomads [NOMA],
+  3 swords [SWOR], 197 crossbows [XBOW], 109 horses [HORS], crossbow
+  3.
+Unit (6933), Black Company (19), behind, 303 nomads [NOMA], 47 swords
+  [SWOR], 303 crossbows [XBOW], 158 horses [HORS], 11 winged horses
+  [WING], crossbow 3.
+Unit (4337), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], staff of fire [STAF], crossbow 2, riding 5.
+Pirates (1481), Black Company (19), 140 orcs [ORC], 140 quarterstaves
+  [QUAR], combat 4.
+Pirates (1190), Black Company (19), 140 orcs [ORC], 140 quarterstaves
+  [QUAR], combat 4.
+Unit (1497), Black Company (19), behind, leader [LEAD], magic crossbow
+  [MXBO], tactics 5, crossbow 2, riding 1.
+Unit (889), Black Company (19), behind, leader [LEAD], double bow
+  [DBOW], 4 winged horses [WING], 2 staves of fire [STAF], tactics 5,
+  longbow 4.
+War orcs (7376), Coastal Brotherhood (87), 2700 orcs [ORC], 1249
+  swords [SWOR], 392 quarterstaves [QUAR], 162 plate armor [PARM],
+  1297 horses [HORS], 18 magic wagons [MWAG], combat 4.
+Bucaneers (4996), Coastal Brotherhood (87), 2200 orcs [ORC], 593
+  swords [SWOR], 1607 quarterstaves [QUAR], 1620 plate armor [PARM],
+  580 mithril armor [MARM], 1700 horses [HORS], combat 4.
+Unit (1632), Coastal Brotherhood (87), behind, leader [LEAD], sword
+  [SWOR], quarterstaff [QUAR], horse [HORS], tactics 5, riding 5.
+Unit (863), Coastal Brotherhood (87), behind, leader [LEAD], longbow
+  [LBOW], battle axe [BAXE], quarterstaff [QUAR], horse [HORS].
+Bucaneers Scandy (7996), Coastal Brotherhood (87), 1400 vikings
+  [VIKI], 1471 quarterstaves [QUAR], 950 horses [HORS], combat 3.
+Unit (1637), Coastal Brotherhood (87), behind, leader [LEAD], spear
+  [SPEA], quarterstaff [QUAR], horse [HORS], tactics 5, riding 5.
+Sharpshooters (22533), Coastal Brotherhood (87), behind, 100 leaders
+  [LEAD], 100 double bows [DBOW], 56 horses [HORS], longbow 5.
+Sharpshooters (8394), Coastal Brotherhood (87), behind, 100 leaders
+  [LEAD], 100 double bows [DBOW], 56 horses [HORS], longbow 5.
+XBOW learning division (14568), Coastal Brotherhood (87), behind, 941
+  nomads [NOMA], 944 crossbows [XBOW], 519 horses [HORS], crossbow 3.
+Unit (1622), Coastal Brotherhood (87), 3000 orcs [ORC], 2547 swords
+  [SWOR], 453 quarterstaves [QUAR], 1461 plate armor [PARM], 294
+  leather armor [LARM], 63 admantium ring mails [ARNG], 1881 horses
+  [HORS], combat 4.
+Crossbow Corps (774), Sohu-Sbrol Guild (62), behind, 500 nomads
+  [NOMA], 493 crossbows [XBOW], 8 magic crossbows [MXBO], 400 camels
+  [CAME], crossbow 3.
+Reserve XBow Unit (13814), Sohu-Sbrol Guild (62), behind, 90 plainsmen
+  [PLAI], 90 crossbows [XBOW], 60 horses [HORS], crossbow 2.
+Olla-a-gun Taxers (4734), Sohu-Sbrol Guild (62), 424 plainsmen [PLAI],
+  axe [AXE], spear [SPEA], 424 mithril armor [MARM], leather armor
+  [LARM], 305 horses [HORS], combat 2.
+Unit (3556), Sohu-Sbrol Guild (62), behind, 20 leaders [LEAD], 20
+  double bows [DBOW], 2 magic wagons [MWAG], longbow 5, riding 4.
+Unit (7191), Sohu-Sbrol Guild (62), behind, 30 leaders [LEAD], 30
+  double bows [DBOW], 5 magic wagons [MWAG], longbow 5, riding 5.
+Unit (1346), Sohu-Sbrol Guild (62), behind, 100 leaders [LEAD], 100
+  double bows [DBOW], 7 magic wagons [MWAG], crossbow 3.
+Orcs Moving (15436), Sohu-Sbrol Guild (62), 1000 orcs [ORC], 760
+  horses [HORS], combat 4.
+Troops for Old Gale (5444), Sohu-Sbrol Guild (62), 1000 nomads [NOMA],
+  2 swords [SWOR], 2 longbows [LBOW], 3 picks [PICK], 5 spears [SPEA],
+  2 chain armor [CARM], 4 leather armor [LARM], 735 horses [HORS],
+  winged horse [WING], 3 camels [CAME], 3 lassoes [LASS], combat 2.
+Former Green Archers (9964), Sohu-Sbrol Guild (62), behind, 1740
+  nomads [NOMA], 1740 crossbows [XBOW], 433 horses [HORS], 731 camels
+  [CAME], 63 giant moles [MOLE], crossbow 3.
+The Great Garbanzo! (2066), Sohu-Sbrol Guild (62), behind, leader
+  [LEAD], 4 dragons [DRAG] (Combat 6/6, Attacks 50, Hits 50, Tactics
+  4), cloak of invulnerability [CLOA], FSHI 4.
+Unit (5792), Sohu-Sbrol Guild (62), sea elf [SELF].
+Unit (3063), Desert Eagles (11), behind, 50 leaders [LEAD], 50
+  crossbows [XBOW], 32 winged horses [WING], crossbow 5.
+Unit (15215), Desert Eagles (11), behind, leader [LEAD], 2 horses
+  [HORS].
+Ugly Eagle (2974), Desert Eagles (11), behind, leader [LEAD], 4
+  dragons [DRAG] (Combat 6/6, Attacks 50, Hits 50, Tactics 4), 20
+  mithril armor [MARM]; I felt your Fear Deathscarab, try keep it in
+  secret.
+
+Defenders:
+Unit (7216), behind, leader [LEAD], winged horse [WING], staff of fire
+  [STAF], tactics 5.
+Unit (12284), behind, leader [LEAD], winged horse [WING].
+Unit (17944), behind, leader [LEAD], winged horse [WING], runesword
+  [RUNE], tactics 5.
+Unit (11555), behind, 288 leaders [LEAD], 161 winged horses [WING],
+  horse [HORS], 288 double bows [DBOW], crossbow 5.
+Unit (21423), behind, 310 leaders [LEAD], 173 winged horses [WING],
+  horse [HORS], 310 double bows [DBOW], crossbow 5.
+Unit (9493), behind, 347 leaders [LEAD], 191 horses [HORS], 3 winged
+  horses [WING], 347 double bows [DBOW], crossbow 5.
+Unit (5217), behind, leader [LEAD], winged horse [WING], horse [HORS],
+  staff of fire [STAF], tactics 5.
+Unit (10378), behind, leader [LEAD], horse [HORS], runesword [RUNE],
+  winged horse [WING], riding 5.
+Unit (7195), 216 darkmen [DMAN], 362 horses [HORS], 2 winged horses
+  [WING], 216 battle axes [BAXE], 216 mithril armor [MARM], combat 2.
+Unit (11187), 3030 orcs [ORC], 2420 horses [HORS], 201 camels [CAME],
+  12 giant moles [MOLE], 3 giant spiders [MSPI], 2 winged horses
+  [WING], 4 admantium battle axes [ABAX], 2 cloaks of invulnerability
+  [CLOA], 70 amulets of protection [AMPR], 18 shieldstones [SHST], 220
+  admantium plate mails [AARM], 2 admantium swords [ASWR], 28 mithril
+  battle axes [MBAX], 160 mithril swords [MSWO], 2836 battle axes
+  [BAXE], 2 admantium ring mails [ARNG], 8 improved mithril armor
+  [IMTH], 2798 mithril armor [MARM], combat 4.
+Kusisnici (12369), behind, 10840 nomads [NOMA], 9033 horses [HORS],
+  9699 crossbows [XBOW], 2464 quarterstaves [QUAR], 2453 swords
+  [SWOR], 65 wolves [MWOL], 1133 longbows [LBOW], 1196 winged horses
+  [WING], 21 giant moles [MOLE], 858 axes [AXE], 71 hammers [HAMM],
+  104 spears [SPEA], 12 giant spiders [MSPI], 4 camels [CAME], 176
+  battle axes [BAXE], 8 lances [LANC], 2 picks [PICK], 4 cloth armor
+  [CLAR], 1502 leather armor [LARM], 1039 magic crossbows [MXBO], 874
+  chain armor [CARM], 496 double bows [DBOW], 295 plate armor [PARM],
+  3 mithril chain armor [MCAR], crossbow 3.
+Unit (18491), behind, leader [LEAD], winged horse [WING], horse
+  [HORS], runesword [RUNE], riding 1.
+Unit (12965), behind, leader [LEAD], winged horse [WING], horse
+  [HORS], runesword [RUNE], tactics 5.
+Unit (4516), behind, 39 leaders [LEAD], 22 horses [HORS], 39 double
+  bows [DBOW], crossbow 5.
+Unit (18096), behind, winged horse [WING], leader [LEAD], horse
+  [HORS], tactics 5, riding 2.
+Unit (18493), behind, leader [LEAD], winged horse [WING], horse
+  [HORS].
+Unit (5687), behind, leader [LEAD], horse [HORS], runesword [RUNE],
+  winged horse [WING], riding 5.
+Unit (6160), 411 barbarians [BARB], 786 horses [HORS], 2 camels
+  [CAME], 2 winged horses [WING], 411 battle axes [BAXE], 411 mithril
+  armor [MARM], combat 3.
+Unit (17947), behind, leader [LEAD], winged horse [WING], horse
+  [HORS], staff of fire [STAF], tactics 5, riding 2.
+Unit (4670), behind, 110 leaders [LEAD], 60 winged horses [WING],
+  horse [HORS], 110 double bows [DBOW], longbow 5.
+Unit (7031), behind, 50 leaders [LEAD], 27 winged horses [WING], horse
+  [HORS], 50 double bows [DBOW], longbow 5.
+Unit (12205), behind, 100 leaders [LEAD], 50 winged horses [WING], 5
+  horses [HORS], 100 double bows [DBOW], crossbow 5.
+Unit (4038), behind, 200 leaders [LEAD], 100 horses [HORS], combat 1.
+Unit (10574), 422 horses [HORS], 555 nomads [NOMA], 555 battle axes
+  [BAXE], 555 mithril armor [MARM], combat 2.
+
+Round 1:
+The Great Garbanzo! (2066) raise RANGED shield by force shield.
+The Great Garbanzo! (2066) add personal COMBAT defence by force
+  shield.
+Captain (2023) raise RANGED shield by force shield.
+Captain (2023) add personal COMBAT defence by force shield.
+One-eye (2377) kill 4 by FIREBREATH.
+One-eye (2377) kill 10 by FIREBREATH.
+Unit (5217) kill 21 by fire.
+Unit (10380) kill 9 by fire.
+Goblin (2376) kill 11 by FIREBREATH.
+Goblin (2376) kill 11 by FIREBREATH.
+One-eye (2377) kill 84 by call lightning.
+Ugly Eagle (2974) kill 5 by FIREBREATH.
+Goblin (2376) kill 8 by FIREBREATH.
+Ugly Eagle (2974) kill 1 by FIREBREATH.
+Captain (2023) kill 14 by FIREBREATH.
+Captain (2023) kill 11 by FIREBREATH.
+Goblin (2376) kill 35 by call lightning.
+Goblin (2376) kill 3 by FIREBREATH.
+Ugly Eagle (2974) kill 7 by FIREBREATH.
+One-eye (2377) kill 6 by FIREBREATH.
+Captain (2023) kill 7 by FIREBREATH.
+One-eye (2377) kill 10 by FIREBREATH.
+Unit (4389) kill 7 by fire.
+Unit (17947) kill 17 by fire.
+The Great Garbanzo! (2066) kill 9 by FIREBREATH.
+Captain (2023) kill 14 by FIREBREATH.
+Unit (889) kill 5 by fire.
+Unit (4684) kill 3 by fire.
+Ugly Eagle (2974) kill 5 by FIREBREATH.
+The Great Garbanzo! (2066) kill 6 by FIREBREATH.
+One-eye (2377) kill 11 by FIREBREATH.
+Unit (4337) kill 4 by fire.
+The Great Garbanzo! (2066) kill 7 by FIREBREATH.
+Unit (6528) kill 4 by fire.
+Goblin (2376) kill 12 by FIREBREATH.
+Unit (4381) kill 5 by fire.
+Captain (2023) kill 16 by FIREBREATH.
+Unit (7216) kill 17 by fire.
+The Great Garbanzo! (2066) kill 12 by FIREBREATH.
+Unit (6542) kill 7 by fire.
+Unit (10380) loses 4702.
+Unit (7216) loses 1915.
+
+Round 2:
+Captain (2023) raise RANGED shield by force shield.
+The Great Garbanzo! (2066) raise RANGED shield by force shield.
+Captain (2023) kill 8 by FIREBREATH.
+The Great Garbanzo! (2066) kill 13 by FIREBREATH.
+Unit (4381) kill 9 by fire.
+Unit (17947) kill 19 by fire.
+Ugly Eagle (2974) kill 3 by FIREBREATH.
+One-eye (2377) kill 66 by call lightning.
+Goblin (2376) kill 13 by FIREBREATH.
+Ugly Eagle (2974) kill 15 by FIREBREATH.
+Unit (4337) kill 5 by fire.
+Unit (4389) kill 6 by fire.
+Unit (5217) kill 10 by fire.
+Unit (889) kill 5 by fire.
+Unit (10380) kill 2 by fire.
+Unit (4684) kill 7 by fire.
+Unit (6528) kill 5 by fire.
+The Great Garbanzo! (2066) kill 9 by FIREBREATH.
+Goblin (2376) kill 8 by FIREBREATH.
+One-eye (2377) kill 15 by FIREBREATH.
+The Great Garbanzo! (2066) kill 1 by FIREBREATH.
+Goblin (2376) kill 18 by FIREBREATH.
+The Great Garbanzo! (2066) kill 5 by FIREBREATH.
+Ugly Eagle (2974) kill 4 by FIREBREATH.
+Ugly Eagle (2974) kill 11 by FIREBREATH.
+One-eye (2377) kill 12 by FIREBREATH.
+Captain (2023) kill 10 by FIREBREATH.
+Captain (2023) kill 2 by FIREBREATH.
+One-eye (2377) kill 4 by FIREBREATH.
+Captain (2023) kill 2 by FIREBREATH.
+Goblin (2376) kill 6 by FIREBREATH.
+Unit (7216) kill 19 by fire.
+Goblin (2376) kill 54 by call lightning.
+One-eye (2377) kill 14 by FIREBREATH.
+Captain (2023) kill 15 by FIREBREATH.
+Unit (6542) kill 2 by fire.
+Goblin (2376) kill 10 by FIREBREATH.
+One-eye (2377) kill 7 by FIREBREATH.
+Unit (10380) loses 2186.
+Unit (7216) loses 977.
+
+Round 3:
+Captain (2023) raise RANGED shield by force shield.
+The Great Garbanzo! (2066) raise RANGED shield by force shield.
+Goblin (2376) kill 14 by FIREBREATH.
+One-eye (2377) kill 70 by call lightning.
+Captain (2023) kill 3 by FIREBREATH.
+One-eye (2377) kill 16 by FIREBREATH.
+Captain (2023) kill 8 by FIREBREATH.
+One-eye (2377) kill 7 by FIREBREATH.
+Captain (2023) kill 8 by FIREBREATH.
+Unit (889) kill 4 by fire.
+Unit (4381) kill 7 by fire.
+Goblin (2376) kill 4 by FIREBREATH.
+Ugly Eagle (2974) kill 9 by FIREBREATH.
+Unit (4389) kill 7 by fire.
+Goblin (2376) kill 11 by FIREBREATH.
+Unit (7216) kill 15 by fire.
+Unit (6528) kill 1 by fire.
+Goblin (2376) kill 8 by FIREBREATH.
+Unit (4337) kill 7 by fire.
+Goblin (2376) kill 7 by FIREBREATH.
+One-eye (2377) kill 4 by FIREBREATH.
+Unit (17947) kill 18 by fire.
+Goblin (2376) kill 56 by call lightning.
+One-eye (2377) kill 12 by FIREBREATH.
+Unit (6542) kill 3 by fire.
+The Great Garbanzo! (2066) kill 7 by FIREBREATH.
+Unit (10380) kill 0 by fire.
+Captain (2023) kill 9 by FIREBREATH.
+Unit (5217) kill 24 by fire.
+Ugly Eagle (2974) kill 2 by FIREBREATH.
+Captain (2023) kill 3 by FIREBREATH.
+The Great Garbanzo! (2066) kill 0 by FIREBREATH.
+Ugly Eagle (2974) kill 0 by FIREBREATH.
+The Great Garbanzo! (2066) kill 31 by FIREBREATH.
+Ugly Eagle (2974) kill 36 by FIREBREATH.
+One-eye (2377) kill 22 by FIREBREATH.
+Unit (4684) kill 22 by fire.
+The Great Garbanzo! (2066) kill 31 by FIREBREATH.
+Unit (10380) loses 3693.
+Unit (7216) loses 2981.
+
+Round 4:
+Captain (2023) raise RANGED shield by force shield.
+The Great Garbanzo! (2066) raise RANGED shield by force shield.
+The Great Garbanzo! (2066) kill 14 by FIREBREATH.
+Unit (10380) kill 16 by fire.
+Goblin (2376) kill 36 by FIREBREATH.
+Ugly Eagle (2974) kill 27 by FIREBREATH.
+Captain (2023) kill 45 by FIREBREATH.
+Goblin (2376) kill 40 by FIREBREATH.
+Unit (17947) kill 18 by fire.
+Captain (2023) kill 37 by FIREBREATH.
+One-eye (2377) kill 41 by FIREBREATH.
+Unit (5217) kill 9 by fire.
+Unit (6542) kill 10 by fire.
+Ugly Eagle (2974) kill 41 by FIREBREATH.
+Ugly Eagle (2974) kill 48 by FIREBREATH.
+One-eye (2377) kill 39 by FIREBREATH.
+Goblin (2376) kill 37 by FIREBREATH.
+Unit (889) kill 7 by fire.
+One-eye (2377) kill 164 by call lightning.
+The Great Garbanzo! (2066) kill 33 by FIREBREATH.
+Captain (2023) kill 21 by FIREBREATH.
+Goblin (2376) kill 31 by FIREBREATH.
+Unit (4684) kill 14 by fire.
+One-eye (2377) kill 47 by FIREBREATH.
+One-eye (2377) kill 48 by FIREBREATH.
+Unit (4381) kill 9 by fire.
+Ugly Eagle (2974) kill 34 by FIREBREATH.
+Unit (4389) kill 15 by fire.
+One-eye (2377) kill 18 by FIREBREATH.
+Unit (4337) kill 17 by fire.
+Captain (2023) kill 33 by FIREBREATH.
+The Great Garbanzo! (2066) kill 25 by FIREBREATH.
+Goblin (2376) kill 46 by FIREBREATH.
+Unit (10380) loses 828.
+Unit (7216) loses 10634.
+
+Unit (7216) is routed!
+Total Casualties:
+Unit (7216) loses 16507.
+Damaged units: 12369, 11555, 21423, 9493, 7031, 4038, 12205, 4670,
+  4516, 10378, 12965, 18493, 18096, 17947, 5217, 17944, 5687, 12284,
+  7216, 18491, 11187, 10574, 6160, 7195.
+Unit (10380) loses 11409.
+Damaged units: 1453, 4996, 2147, 3684, 1440, 4581, 7996, 3440, 7376,
+  1622, 1130, 1190, 1472, 15436, 3614, 3908, 5444, 1736, 1481, 14932,
+  4734, 1845, 2792, 1510, 2800, 4979, 2786, 2307, 4044, 2737, 5792,
+  1913, 1771, 2899.
+
+Spoils: 1227 swords [SWOR], 4850 crossbows [XBOW], 567 longbows
+  [LBOW], 80 mithril swords [MSWO], 870 double bows [DBOW], 429 axes
+  [AXE], 2097 battle axes [BAXE], pick [PICK], 52 spears [SPEA], 519
+  magic crossbows [MXBO], 4 lances [LANC], 35 hammers [HAMM], 14
+  mithril battle axes [MBAX], admantium sword [ASWR], 2 admantium
+  battle axes [ABAX], 1232 quarterstaves [QUAR], 2 runeswords [RUNE],
+  437 chain armor [CARM], 147 plate armor [PARM], 1991 mithril armor
+  [MARM], 2 cloth armor [CLAR], 751 leather armor [LARM], 110
+  admantium plate mails [AARM], 4 improved mithril armor [IMTH],
+  admantium ring mail [ARNG], cloak of invulnerability [CLOA], mithril
+  chain armor [MCAR], 8 giant spiders [MSPI], 6675 horses [HORS], 844
+  winged horses [WING], 104 camels [CAME], 16 giant moles [MOLE], 33
+  wolves [MWOL], ring of invisibility [RING], 2 staves of fire [STAF],
+  35 amulets of protection [AMPR], 9 shieldstones [SHST].
+

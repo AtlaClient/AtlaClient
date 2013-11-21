@@ -1,0 +1,4 @@
+""
+"village","village"
+"town","town"
+"city","city"

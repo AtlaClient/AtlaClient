@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.05.03"/>
+    <PROJECT value="atlaclient.exe"/>
+    <OBJFILES value="atlaclient.obj source\MainFrm.obj source\util.obj source\faction.obj 
+      source\items.obj source\skills.obj source\orders.obj source\unit.obj 
+      source\markets.obj source\region.obj source\turn.obj source\reports.obj 
+      source\exprlang.obj source\viewitems.obj source\NewGameFrm.obj 
+      source\ChangeGameFrm.obj source\LinkShaftFrm.obj 
+      source\EditOrderDescrFrm.obj source\EditOrderTeachFrm.obj 
+      source\EditOrderBuild.obj source\EditOrderIntFrm.obj 
+      source\EditOrderBuySellFrm.obj source\EditOrderMovingFrm.obj 
+      source\EditOrderAutoGiveFrm.obj source\EditOrderEnterFrm.obj 
+      source\EditOrderByteFrm.obj source\EditOrderCustomFrm.obj 
+      source\EditOrderGiveFrm.obj source\EditOrderSimpleFrm.obj 
+      source\EditOrderAbrFrm.obj source\EditOrderCastFrm.obj 
+      source\EditOrderCommentFrm.obj source\EditOrderAutoMoveFrm.obj 
+      source\EditOrderWithdrawFrm.obj source\EditOrderNameDescribeFrm.obj 
+      source\ProdModeSetupFrm.obj source\WedgeModeSetupFrm.obj 
+      source\EventsFrm.obj source\EditItemTypeFrm.obj 
+      source\ShowItemTypesFrm.obj source\EditSkillTypeFrm.obj 
+      source\ShowSkillTypesFrm.obj source\ShowSkillInfosFrm.obj 
+      source\ShowWeatherRegionsFrm.obj source\StoreFrm.obj source\RegInfoFrm.obj 
+      source\MapFrm.obj source\import.obj source\OptionsFrm.obj 
+      source\EditOrderReceiveFrm.obj source\AboutFrm.obj 
+      source\FormNewUnitFrm.obj source\SaveMapFrm.obj source\army.obj 
+      source\BattleSimFrm.obj source\battle.obj source\i_rand.obj 
+      source\battlerep.obj source\SetFlagsFrm.obj source\EditOrdersFrm.obj 
+      source\ViewFactionsFrm.obj source\ViewMagesFrm.obj 
+      source\ViewTaxRegionsFrm.obj source\EditOrderAutoWarningFrm.obj 
+      source\changes.obj source\ViewChangesFrm.obj source\SetLevelSizeFrm.obj 
+      source\ViewGatesFrm.obj source\RegionListFrm.obj 
+      source\SupportBuildingFrm.obj source\ViewSpecialistsFrm.obj 
+      source\ViewUnitsFrm.obj source\ViewUnitsSetupFrm.obj source\eapfile.obj 
+      source\smapi.obj source\EditOrderStealFrm.obj 
+      source\EditOrderAssassinateFrm.obj source\EditOrderAttackFrm.obj 
+      source\ShortCutsFrm.obj source\acplugins.obj source\BalanceFrm.obj 
+      source\ProductsFrm.obj source\ShowItObjInfosFrm.obj 
+      source\EditOrderPromoteFrm.obj source\AnalyzeCityRegion.obj 
+      source\shortcuts.obj source\gameparams.obj source\gameparamsfrm.obj 
+      source\ExpressionEditorFrm.obj source\EAPCustomMemo.obj 
+      source\ShowObjTypesFrm.obj source\EditObjTypeFrm.obj source\ReqFrm.obj 
+      source\ShowWeapFrm.obj source\EditWeap.obj source\ShowArmsFrm.obj 
+      source\EditArmor.obj source\TownTrade.obj source\ChangeAtt.obj 
+      source\EditItems.obj source\GetItem.obj source\EditTurnOrder.obj"/>
+    <RESFILES value="AtlaClient.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) source\MainFrm.dfm source\NewGameFrm.dfm 
+      source\ChangeGameFrm.dfm source\LinkShaftFrm.dfm 
+      source\EditOrderDescrFrm.dfm source\EditOrderTeachFrm.dfm 
+      source\EditOrderBuild.dfm source\EditOrderIntFrm.dfm 
+      source\EditOrderBuySellFrm.dfm source\EditOrderMovingFrm.dfm 
+      source\EditOrderAutoGiveFrm.dfm source\EditOrderEnterFrm.dfm 
+      source\EditOrderByteFrm.dfm source\EditOrderCustomFrm.dfm 
+      source\EditOrderGiveFrm.dfm source\EditOrderSimpleFrm.dfm 
+      source\EditOrderAbrFrm.dfm source\EditOrderCastFrm.dfm 
+      source\EditOrderCommentFrm.dfm source\EditOrderAutoMoveFrm.dfm 
+      source\EditOrderWithdrawFrm.dfm source\EditOrderNameDescribeFrm.dfm 
+      source\ProdModeSetupFrm.dfm source\WedgeModeSetupFrm.dfm 
+      source\EventsFrm.dfm source\EditItemTypeFrm.dfm 
+      source\ShowItemTypesFrm.dfm source\EditSkillTypeFrm.dfm 
+      source\ShowSkillTypesFrm.dfm source\ShowSkillInfosFrm.dfm 
+      source\ShowWeatherRegionsFrm.dfm source\StoreFrm.dfm source\RegInfoFrm.dfm 
+      source\MapFrm.dfm source\OptionsFrm.dfm source\EditOrderReceiveFrm.dfm 
+      source\AboutFrm.dfm source\FormNewUnitFrm.dfm source\SaveMapFrm.dfm 
+      source\BattleSimFrm.dfm source\SetFlagsFrm.dfm source\EditOrdersFrm.dfm 
+      source\ViewFactionsFrm.dfm source\ViewMagesFrm.dfm 
+      source\ViewTaxRegionsFrm.dfm source\EditOrderAutoWarningFrm.dfm 
+      source\ViewChangesFrm.dfm source\SetLevelSizeFrm.dfm 
+      source\ViewGatesFrm.dfm source\RegionListFrm.dfm 
+      source\SupportBuildingFrm.dfm source\ViewSpecialistsFrm.dfm 
+      source\ViewUnitsFrm.dfm source\ViewUnitsSetupFrm.dfm 
+      source\EditOrderStealFrm.dfm source\EditOrderAssassinateFrm.dfm 
+      source\EditOrderAttackFrm.dfm source\ShortCutsFrm.dfm 
+      source\BalanceFrm.dfm source\ProductsFrm.dfm source\ShowItObjInfosFrm.dfm 
+      source\EditOrderPromoteFrm.dfm source\AnalyzeCityRegion.dfm 
+      source\gameparamsfrm.dfm source\ExpressionEditorFrm.dfm 
+      source\ShowObjTypesFrm.dfm source\EditObjTypeFrm.dfm source\ReqFrm.dfm 
+      source\ShowWeapFrm.dfm source\EditWeap.dfm source\ShowArmsFrm.dfm 
+      source\EditArmor.dfm source\TownTrade.dfm source\ChangeAtt.dfm 
+      source\EditItems.dfm source\GetItem.dfm source\EditTurnOrder.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="RXCTL5.lib bcbsmp50.lib VCLDB50.lib vclx50.lib vcl50.lib"/>
+    <SPARELIBS value="vcl50.lib vclx50.lib VCLDB50.lib bcbsmp50.lib RXCTL5.lib"/>
+    <PACKAGES value="vcl50.bpi vclx50.bpi vcljpg50.bpi"/>
+    <PATHCPP value=".;source"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG;ATLACLIENT"/>
+    <SYSDEFINES value="NO_STRICT;_VIS_NOLIB"/>
+    <MAINSOURCE value="atlaclient.cpp"/>
+    <INCLUDEPATH value="&quot;D:\Program Files\Borland\CBuilder5\Projects\&quot;;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl;$(BCB)\Lib\RX\units"/>
+    <LIBPATH value="&quot;D:\Program Files\Borland\CBuilder5\Projects\&quot;;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\Lib\RX\dcu\C5;$(BCB)\Lib\RX\units"/>
+    <WARNINGS value="-w-par -w-8027 -w-8026"/>
+    <WARNOPTSTR value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-I&quot;D:\Program Files\Borland\CBuilder5\Projects\.&quot; -Isource 
+      -I$(BCB)\projects\lib -I$(BCB)\include -I$(BCB)\include\vcl 
+      -I$(BCB)\Lib\RX\units -src_suffix cpp -D_DEBUG -DATLACLIENT -boa"/>
+    <CFLAG1 value="-Od -H=$(BCB)\lib\temp\vcl50.csm -Hc -Vms -Vx -Ve -X- -r- -a4 -b- -k -y -v 
+      -vi -c -tW -tWM"/>
+    <PFLAGS value="-$Y+ -$W -$O- -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zi"/>
+    <LFLAGS value="-D&quot;&quot; -aa -Tpe -x -Gn -v"/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mt.lib"/>
+  </LINKER>
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=0
+MinorVer=9
+Release=4
+Build=1
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1033
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=EAP inc.
+FileDescription=AtlaClient
+FileVersion=0.9.4.1
+InternalName=
+LegalCopyright=Copyright (c) 2000 by Evgeny Pashkin
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=0.9.4.0
+Comments=
+
+[Excluded Packages]
+$(BCB)\Bin\DBWEBXPRT.BPL=Borland Web Wizard Package
+
+[HistoryLists\hlIncludePath]
+Count=14
+Item0=D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl;$(BCB)\Lib\RX\units
+Item1=D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl
+Item2=D:\Program Files\Borland\CBuilder5\Projects;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl
+Item3=source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl
+Item4=D:\cb5\CBuilder5\Projects\;C:\Cbuilder4\CBuilder4\Projects\;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl
+Item5=D:\cb5\CBuilder5\Projects;C:\Cbuilder4\CBuilder4\Projects\;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl
+Item6=..\..\Cbuilder4\CBuilder4\Projects;source;$(BCB)\projects\lib;$(BCB)\include;$(BCB)\include\vcl
+Item7=..\..\cbuilder4\CBuilder4\Projects;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item8=..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item9=C:\cb4\CBuilder4\Projects\;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item10=C:\cb4\CBuilder4\Projects;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item11=C:\cb4\CBuilder4\Projects\;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item12=C:\cb4\CBuilder4\Projects;C:\cb4\CBuilder4\Projects\;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item13=C:\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=16
+Item0=D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\Lib\RX\dcu\C5;$(BCB)\Lib\RX\units
+Item1=D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib;$(BCB)\Lib\RX\C5
+Item2=D:\Program Files\Borland\CBuilder5\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib
+Item3=D:\Program Files\Borland\CBuilder5\Projects;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib
+Item4=source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib
+Item5=D:\cb5\CBuilder5\Projects\;C:\Cbuilder4\CBuilder4\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib
+Item6=D:\cb5\CBuilder5\Projects;C:\Cbuilder4\CBuilder4\Projects\;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib
+Item7=..\..\Cbuilder4\CBuilder4\Projects;source;$(BCB)\projects\lib;$(BCB)\lib\obj;$(BCB)\lib
+Item8=source;$(BCB)\lib\obj;$(BCB)\lib
+Item9=..\..\cbuilder4\CBuilder4\Projects;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item10=..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item11=C:\cb4\CBuilder4\Projects\;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item12=C:\cb4\CBuilder4\Projects;..\..\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item13=C:\cb4\CBuilder4\Projects\;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item14=C:\cb4\CBuilder4\Projects;C:\cb4\CBuilder4\Projects\;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item15=C:\cb4\CBuilder4\Projects;source;..\..\cbuilder4\Projects;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=2
+Item0=_DEBUG;ATLACLIENT
+Item1=_DEBUG
+
+[HistoryLists\hlIntOutputDir]
+Count=1
+Item0=C:\-\atlaclient
+
+[HistoryLists\hlFinalOutputDir]
+Count=1
+Item0=C:\-\atlaclient
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

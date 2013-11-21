@@ -1,0 +1,82 @@
+"mining","MINI",10:S:0
+"lumberjack","LUMB",10:S:1
+"quarrying","QUAR",10:S:2
+"hunting","HUNT",10:S:3
+"fishing","FISH",10:S:4
+"herb lore","HERB",10:S:5
+"horse training","HORS",10:S:6
+"weaponsmith","WEAP",10:S:7
+"armorer","ARMO",10:S:8
+"carpenter","CARP",10:S:9
+"building","BUIL",10:S:10
+"shipbuilding","SHIP",10:S:11
+"entertainment","ENTE",10:S:12
+"tactics","TACT",200:S:13
+"combat","COMB",10:S:14
+"riding","RIDI",10:S:15
+"crossbow","XBOW",10:S:16
+"longbow","LBOW",10:S:17
+"stealth","STEA",50:S:18
+"observation","OBSE",50:S:19
+"healing","HEAL",10:S:20
+"sailing","SAIL",10:S:21
+"farming","FARM",10:S:22
+"ranching","RANC",10:S:23
+"animal training","ANIM",10:S:80
+"weaponcraft","WCRA",10,"WEAP",4:S:78
+"armorcraft","ACRA",10,"ARMO",5:S:79
+"force","FORC",100,MAGIC,FOUNDATION:S:24
+"pattern","PATT",100,MAGIC,FOUNDATION:S:25
+"spirit","SPIR",100,MAGIC,FOUNDATION:S:26
+"fire","FIRE",100,MAGIC,COMBAT,"FORC",1:S:27
+"earthquake","EQUA",100,MAGIC,COMBAT,"FORC",1,"PATT",1:S:28
+"force shield","FSHI",100,MAGIC,COMBAT,"FORC",1:S:29
+"energy shield","ESHI",100,MAGIC,COMBAT,"FORC",1:S:30
+"spirit shield","SSHI",100,MAGIC,COMBAT,"SPIR",1,"FORC",1:S:31
+"magical healing","MHEA",100,MAGIC,"PATT",1:S:32
+"gate lore","GATE",100,MAGIC,CAST,"PATT",1,"SPIR",1:S:33
+"farsight","FARS",100,MAGIC,CAST,"PATT",1,"SPIR",1:S:34
+"teleportation","TELE",100,MAGIC,CAST,"GATE",1,"FARS",3:S:35
+"portal lore","PORT",100,MAGIC,CAST,"GATE",3,"FARS",1:S:36
+"mind reading","MIND",100,MAGIC,CAST,"PATT",1:S:37
+"weather lore","WEAT",100,MAGIC,"FORC",1,"PATT",1:S:38
+"summon wind","SWIN",100,MAGIC,"WEAT",1:S:39
+"summon storm","SSTO",100,MAGIC,COMBAT,"WEAT",1:S:40
+"summon tornado","STOR",100,MAGIC,COMBAT,"WEAT",3:S:41
+"call lightning","CALL",100,MAGIC,COMBAT,"WEAT",5:S:42
+"clear skies","CLEA",100,MAGIC,COMBAT,CAST,"WEAT",1:S:43
+"earth lore","EART",100,MAGIC,CAST,"PATT",1:S:44
+"wolf lore","WOLF",100,MAGIC,CAST,"EART",1:S:45
+"bird lore","BIRD",100,MAGIC,CAST,"EART",1:S:46
+"dragon lore","DRAG",200,MAGIC,CAST,"BIRD",3:S:47
+"necromancy","NECR",100,MAGIC,"FORC",1,"SPIR",1:S:48
+"summon skeletons","SUSK",100,MAGIC,CAST,"NECR",1:S:49
+"raise undead","RAIS",100,MAGIC,CAST,"NECR",3:S:50
+"summon lich","SULI",100,MAGIC,CAST,"NECR",5:S:51
+"create aura of fear","FEAR",100,MAGIC,COMBAT,"NECR",1:S:52
+"summon black wind","SBLA",100,MAGIC,COMBAT,"NECR",5:S:53
+"banish undead","BUND",100,MAGIC,COMBAT,"NECR",1:S:54
+"demon lore","DEMO",100,MAGIC,"FORC",1,"SPIR",1:S:55
+"summon imps","SUIM",100,MAGIC,CAST,"DEMO",1:S:56
+"summon demon","SUDE",100,MAGIC,CAST,"SUIM",3:S:57
+"summon balrog","SUBA",100,MAGIC,CAST,"SUDE",3:S:58
+"banish demons","BDEM",100,MAGIC,COMBAT,"DEMO",1:S:59
+"illusion","ILLU",100,MAGIC,"FORC",1,"PATT",1:S:60
+"invisibility","INVI",100,MAGIC,CAST,"ILLU",3:S:61
+"true seeing","TRUE",100,MAGIC,"ILLU",3:S:62
+"artifact lore","ARTI",100,MAGIC,"FORC",1,"PATT",1,"SPIR",1:S:63
+"create ring of invisibility","CRRI",100,MAGIC,CAST,"ARTI",3,"INVI",3:S:64
+"create cloak of invulnerability","CRCL",100,MAGIC,CAST,"ARTI",4,"FSHI",3:S:65
+"create staff of fire","CRSF",100,MAGIC,CAST,"ARTI",3,"FIRE",3:S:66
+"create staff of lightning","CRSL",100,MAGIC,CAST,"ARTI",5,"CALL",3:S:67
+"create amulet of true seeing","CRTA",100,MAGIC,CAST,"ARTI",3,"TRUE",3:S:68
+"create amulet of protection","CRPA",100,MAGIC,CAST,"ARTI",1,"SSHI",3:S:69
+"create runesword","CRRU",100,MAGIC,CAST,"ARTI",4,"FEAR",3:S:70
+"create shieldstone","CRSH",100,MAGIC,CAST,"ARTI",3,"ESHI",3:S:71
+"create magic carpet","CRMA",100,MAGIC,CAST,"ARTI",2,"WEAT",3:S:72
+"engrave runes of warding","ENGR",100,MAGIC,CAST,"ARTI",3,"ESHI",3,"SSHI",3:S:73
+"construct gate","CGAT",100,MAGIC,CAST,"ARTI",3,"GATE",3:S:74
+"enchant swords","ESWO",100,MAGIC,CAST,"ARTI",1:S:75
+"enchant armor","EARM",100,MAGIC,CAST,"ARTI",1:S:76
+"construct portal","CPOR",100,MAGIC,CAST,"ARTI",3,"PORT",3:S:77
+"phantasmal entertainment","PHEN",100,MAGIC,"ILLU",1:S:81

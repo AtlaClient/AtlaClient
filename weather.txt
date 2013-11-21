@@ -1,0 +1,4 @@
+"Blizzard",10,"There was an unnatural blizzard last month; ",""
+"Winter",2,"It was winter last month; ","it will be winter next month."
+"Monsoon",2,"It was monsoon season last month; ","it will be monsoon season next month."
+"Normal",1,"The weather was clear last month; ","it will be clear next month."

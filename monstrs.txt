@@ -1,0 +1,35 @@
+"LION",3,2,3,"Pride of Lions",3,0,0,0,2,0,2
+"WOLF",2,1,0,"Wolf Pack",2,0,0,0,3,0,1
+"GRIZ",2,6,0,"Grizzly Bears",2,0,0,0,0,0,6
+"CROC",3,1,1,"Crocodiles",3,3,3,3,0,0,1
+"ANAC",3,1,2,"Anacondas",3,3,3,3,2,0,1
+"SCOR",2,2,2,"Giant Scorpions",2,2,2,2,2,0,2
+"POLA",2,6,0,"Polar Bears",2,2,0,2,0,0,6
+"GRAT",1,1,0,"Pack of Rats",1,1,1,1,1,0,1
+"GSPI",4,2,0,"Giant Spiders",4,2,0,2,2,0,2
+"GLIZ",3,5,0,"Giant Lizards",3,3,0,3,1,0,5
+"TREN",2,10,2,"Living Trees",2,3,3,3,0,0,10
+"ROC",4,15,4,"Giant Birds",4,3,0,3,4,0,15
+"BOGT",4,20,3,"Swamp Creatures",4,3,0,3,0,0,20
+"KONG",4,25,0,"Great Apes",4,3,0,3,1,0,25
+"SPHI",4,50,0,"Sphinx",4,4,4,4,3,0,50
+"ICEW",3,6,2,"Ice Wurms",3,3,3,3,3,0,6
+"DRAG",6,50,4,"Dragon","FIREBREATH",6,6,6,6,6,5,0,50
+"CENT",4,2,0,"Tribe of Centaurs",4,0,0,0,3,0,2
+"KOBO",2,1,0,"Kobold Pack",2,0,0,0,0,0,1
+"OGRE",3,10,0,"Family of Ogres",3,2,0,2,0,0,10
+"LMAN",3,1,0,"Lizard Men",3,3,0,3,0,0,1
+"WMAN",3,1,0,"Clan of Wild Men",3,0,0,0,0,0,1
+"SAND",3,1,1,"Sandlings",3,3,0,3,2,0,1
+"YETI",4,2,0,"Yeti",4,3,0,3,3,0,2
+"GOBL",2,1,0,"Goblin Horde",2,0,0,0,0,0,1
+"TROL",3,4,1,"Troll Pack",3,3,0,3,0,0,4
+"ETTI",2,32,2,"Ettins",2,2,0,2,0,0,32
+"SKEL",2,1,0,"Skeletons",2,5,5,3,0,0,1
+"UNDE",3,6,0,"Undead",3,2,3,2,0,0,6
+"LICH",4,40,3,"Lich","FEAR",4,4,4,4,4,0,0,40
+"IMP",3,1,0,"Imp",3,3,3,3,0,0,1
+"DEMO",4,10,0,"Demon",4,4,4,4,3,0,10
+"BALR",6,200,5,"Balrog","HELLFIRE",6,6,6,6,6,5,0,200
+"EAGL",2,1,2,"Eagle",2,0,3,2,5,0,1
+"ILLU",-5,0,0,"Illusion",-5,0,0,0,-5,0,0

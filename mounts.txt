@@ -1,0 +1,4 @@
+"RIDI",3,5,3,"WING"
+"RIDI",1,3,0,"HORS"
+"RIDI",1,2,0,"CAME"
+"RIDI",2,3,0,"WMOL"
